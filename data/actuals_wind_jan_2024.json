@@ -1,0 +1,5954 @@
+[
+  {
+    "startTime": "2024-01-01T00:00:00.000Z",
+    "generation": 10402
+  },
+  {
+    "startTime": "2024-01-01T00:30:00.000Z",
+    "generation": 10845
+  },
+  {
+    "startTime": "2024-01-01T01:00:00.000Z",
+    "generation": 11218
+  },
+  {
+    "startTime": "2024-01-01T01:30:00.000Z",
+    "generation": 11223
+  },
+  {
+    "startTime": "2024-01-01T02:00:00.000Z",
+    "generation": 11234
+  },
+  {
+    "startTime": "2024-01-01T02:30:00.000Z",
+    "generation": 11437
+  },
+  {
+    "startTime": "2024-01-01T03:00:00.000Z",
+    "generation": 11434
+  },
+  {
+    "startTime": "2024-01-01T03:30:00.000Z",
+    "generation": 11445
+  },
+  {
+    "startTime": "2024-01-01T04:00:00.000Z",
+    "generation": 11828
+  },
+  {
+    "startTime": "2024-01-01T04:30:00.000Z",
+    "generation": 11878
+  },
+  {
+    "startTime": "2024-01-01T05:00:00.000Z",
+    "generation": 12037
+  },
+  {
+    "startTime": "2024-01-01T05:30:00.000Z",
+    "generation": 12011
+  },
+  {
+    "startTime": "2024-01-01T06:00:00.000Z",
+    "generation": 12044
+  },
+  {
+    "startTime": "2024-01-01T06:30:00.000Z",
+    "generation": 12183
+  },
+  {
+    "startTime": "2024-01-01T07:00:00.000Z",
+    "generation": 12303
+  },
+  {
+    "startTime": "2024-01-01T07:30:00.000Z",
+    "generation": 12307
+  },
+  {
+    "startTime": "2024-01-01T08:00:00.000Z",
+    "generation": 12361
+  },
+  {
+    "startTime": "2024-01-01T08:30:00.000Z",
+    "generation": 12218
+  },
+  {
+    "startTime": "2024-01-01T09:00:00.000Z",
+    "generation": 12017
+  },
+  {
+    "startTime": "2024-01-01T09:30:00.000Z",
+    "generation": 11817
+  },
+  {
+    "startTime": "2024-01-01T10:00:00.000Z",
+    "generation": 11379
+  },
+  {
+    "startTime": "2024-01-01T10:30:00.000Z",
+    "generation": 10932
+  },
+  {
+    "startTime": "2024-01-01T11:00:00.000Z",
+    "generation": 10679
+  },
+  {
+    "startTime": "2024-01-01T11:30:00.000Z",
+    "generation": 10217
+  },
+  {
+    "startTime": "2024-01-01T12:00:00.000Z",
+    "generation": 9828
+  },
+  {
+    "startTime": "2024-01-01T12:30:00.000Z",
+    "generation": 9548
+  },
+  {
+    "startTime": "2024-01-01T13:00:00.000Z",
+    "generation": 8874
+  },
+  {
+    "startTime": "2024-01-01T13:30:00.000Z",
+    "generation": 8495
+  },
+  {
+    "startTime": "2024-01-01T14:00:00.000Z",
+    "generation": 8058
+  },
+  {
+    "startTime": "2024-01-01T14:30:00.000Z",
+    "generation": 8098
+  },
+  {
+    "startTime": "2024-01-01T15:00:00.000Z",
+    "generation": 8162
+  },
+  {
+    "startTime": "2024-01-01T15:30:00.000Z",
+    "generation": 8058
+  },
+  {
+    "startTime": "2024-01-01T16:00:00.000Z",
+    "generation": 8634
+  },
+  {
+    "startTime": "2024-01-01T16:30:00.000Z",
+    "generation": 9091
+  },
+  {
+    "startTime": "2024-01-01T17:00:00.000Z",
+    "generation": 9204
+  },
+  {
+    "startTime": "2024-01-01T17:30:00.000Z",
+    "generation": 9290
+  },
+  {
+    "startTime": "2024-01-01T18:00:00.000Z",
+    "generation": 9665
+  },
+  {
+    "startTime": "2024-01-01T18:30:00.000Z",
+    "generation": 10443
+  },
+  {
+    "startTime": "2024-01-01T19:00:00.000Z",
+    "generation": 11212
+  },
+  {
+    "startTime": "2024-01-01T19:30:00.000Z",
+    "generation": 12055
+  },
+  {
+    "startTime": "2024-01-01T20:00:00.000Z",
+    "generation": 12519
+  },
+  {
+    "startTime": "2024-01-01T20:30:00.000Z",
+    "generation": 13279
+  },
+  {
+    "startTime": "2024-01-01T21:00:00.000Z",
+    "generation": 13953
+  },
+  {
+    "startTime": "2024-01-01T21:30:00.000Z",
+    "generation": 13845
+  },
+  {
+    "startTime": "2024-01-01T22:00:00.000Z",
+    "generation": 14217
+  },
+  {
+    "startTime": "2024-01-01T22:30:00.000Z",
+    "generation": 14306
+  },
+  {
+    "startTime": "2024-01-01T23:00:00.000Z",
+    "generation": 14958
+  },
+  {
+    "startTime": "2024-01-01T23:30:00.000Z",
+    "generation": 14666
+  },
+  {
+    "startTime": "2024-01-02T00:00:00.000Z",
+    "generation": 14690
+  },
+  {
+    "startTime": "2024-01-02T00:30:00.000Z",
+    "generation": 14510
+  },
+  {
+    "startTime": "2024-01-02T01:00:00.000Z",
+    "generation": 14592
+  },
+  {
+    "startTime": "2024-01-02T01:30:00.000Z",
+    "generation": 14388
+  },
+  {
+    "startTime": "2024-01-02T02:00:00.000Z",
+    "generation": 14032
+  },
+  {
+    "startTime": "2024-01-02T02:30:00.000Z",
+    "generation": 13748
+  },
+  {
+    "startTime": "2024-01-02T03:00:00.000Z",
+    "generation": 13403
+  },
+  {
+    "startTime": "2024-01-02T03:30:00.000Z",
+    "generation": 13232
+  },
+  {
+    "startTime": "2024-01-02T04:00:00.000Z",
+    "generation": 13245
+  },
+  {
+    "startTime": "2024-01-02T04:30:00.000Z",
+    "generation": 13041
+  },
+  {
+    "startTime": "2024-01-02T05:00:00.000Z",
+    "generation": 12635
+  },
+  {
+    "startTime": "2024-01-02T05:30:00.000Z",
+    "generation": 12711
+  },
+  {
+    "startTime": "2024-01-02T06:00:00.000Z",
+    "generation": 12764
+  },
+  {
+    "startTime": "2024-01-02T06:30:00.000Z",
+    "generation": 12323
+  },
+  {
+    "startTime": "2024-01-02T07:00:00.000Z",
+    "generation": 11925
+  },
+  {
+    "startTime": "2024-01-02T07:30:00.000Z",
+    "generation": 11711
+  },
+  {
+    "startTime": "2024-01-02T08:00:00.000Z",
+    "generation": 11866
+  },
+  {
+    "startTime": "2024-01-02T08:30:00.000Z",
+    "generation": 12035
+  },
+  {
+    "startTime": "2024-01-02T09:00:00.000Z",
+    "generation": 11505
+  },
+  {
+    "startTime": "2024-01-02T09:30:00.000Z",
+    "generation": 10760
+  },
+  {
+    "startTime": "2024-01-02T10:00:00.000Z",
+    "generation": 10399
+  },
+  {
+    "startTime": "2024-01-02T10:30:00.000Z",
+    "generation": 9546
+  },
+  {
+    "startTime": "2024-01-02T11:00:00.000Z",
+    "generation": 8795
+  },
+  {
+    "startTime": "2024-01-02T11:30:00.000Z",
+    "generation": 8667
+  },
+  {
+    "startTime": "2024-01-02T12:00:00.000Z",
+    "generation": 8281
+  },
+  {
+    "startTime": "2024-01-02T12:30:00.000Z",
+    "generation": 7557
+  },
+  {
+    "startTime": "2024-01-02T13:00:00.000Z",
+    "generation": 7344
+  },
+  {
+    "startTime": "2024-01-02T13:30:00.000Z",
+    "generation": 7180
+  },
+  {
+    "startTime": "2024-01-02T14:00:00.000Z",
+    "generation": 7249
+  },
+  {
+    "startTime": "2024-01-02T14:30:00.000Z",
+    "generation": 7672
+  },
+  {
+    "startTime": "2024-01-02T15:00:00.000Z",
+    "generation": 7870
+  },
+  {
+    "startTime": "2024-01-02T15:30:00.000Z",
+    "generation": 8115
+  },
+  {
+    "startTime": "2024-01-02T16:00:00.000Z",
+    "generation": 8208
+  },
+  {
+    "startTime": "2024-01-02T16:30:00.000Z",
+    "generation": 8935
+  },
+  {
+    "startTime": "2024-01-02T17:00:00.000Z",
+    "generation": 9635
+  },
+  {
+    "startTime": "2024-01-02T17:30:00.000Z",
+    "generation": 9771
+  },
+  {
+    "startTime": "2024-01-02T18:00:00.000Z",
+    "generation": 10183
+  },
+  {
+    "startTime": "2024-01-02T18:30:00.000Z",
+    "generation": 10043
+  },
+  {
+    "startTime": "2024-01-02T19:00:00.000Z",
+    "generation": 9919
+  },
+  {
+    "startTime": "2024-01-02T19:30:00.000Z",
+    "generation": 10271
+  },
+  {
+    "startTime": "2024-01-02T20:00:00.000Z",
+    "generation": 11051
+  },
+  {
+    "startTime": "2024-01-02T20:30:00.000Z",
+    "generation": 11338
+  },
+  {
+    "startTime": "2024-01-02T21:00:00.000Z",
+    "generation": 11263
+  },
+  {
+    "startTime": "2024-01-02T21:30:00.000Z",
+    "generation": 11467
+  },
+  {
+    "startTime": "2024-01-02T22:00:00.000Z",
+    "generation": 11480
+  },
+  {
+    "startTime": "2024-01-02T22:30:00.000Z",
+    "generation": 11364
+  },
+  {
+    "startTime": "2024-01-02T23:00:00.000Z",
+    "generation": 10992
+  },
+  {
+    "startTime": "2024-01-02T23:30:00.000Z",
+    "generation": 10922
+  },
+  {
+    "startTime": "2024-01-03T00:00:00.000Z",
+    "generation": 10672
+  },
+  {
+    "startTime": "2024-01-03T00:30:00.000Z",
+    "generation": 10530
+  },
+  {
+    "startTime": "2024-01-03T01:00:00.000Z",
+    "generation": 10293
+  },
+  {
+    "startTime": "2024-01-03T01:30:00.000Z",
+    "generation": 10418
+  },
+  {
+    "startTime": "2024-01-03T02:00:00.000Z",
+    "generation": 10226
+  },
+  {
+    "startTime": "2024-01-03T02:30:00.000Z",
+    "generation": 9940
+  },
+  {
+    "startTime": "2024-01-03T03:00:00.000Z",
+    "generation": 10059
+  },
+  {
+    "startTime": "2024-01-03T03:30:00.000Z",
+    "generation": 9889
+  },
+  {
+    "startTime": "2024-01-03T04:00:00.000Z",
+    "generation": 9599
+  },
+  {
+    "startTime": "2024-01-03T04:30:00.000Z",
+    "generation": 9680
+  },
+  {
+    "startTime": "2024-01-03T05:00:00.000Z",
+    "generation": 9463
+  },
+  {
+    "startTime": "2024-01-03T05:30:00.000Z",
+    "generation": 9484
+  },
+  {
+    "startTime": "2024-01-03T06:00:00.000Z",
+    "generation": 9387
+  },
+  {
+    "startTime": "2024-01-03T06:30:00.000Z",
+    "generation": 9326
+  },
+  {
+    "startTime": "2024-01-03T07:00:00.000Z",
+    "generation": 8927
+  },
+  {
+    "startTime": "2024-01-03T07:30:00.000Z",
+    "generation": 8565
+  },
+  {
+    "startTime": "2024-01-03T08:00:00.000Z",
+    "generation": 8396
+  },
+  {
+    "startTime": "2024-01-03T08:30:00.000Z",
+    "generation": 7841
+  },
+  {
+    "startTime": "2024-01-03T09:00:00.000Z",
+    "generation": 7245
+  },
+  {
+    "startTime": "2024-01-03T09:30:00.000Z",
+    "generation": 6934
+  },
+  {
+    "startTime": "2024-01-03T10:00:00.000Z",
+    "generation": 6794
+  },
+  {
+    "startTime": "2024-01-03T10:30:00.000Z",
+    "generation": 6620
+  },
+  {
+    "startTime": "2024-01-03T11:00:00.000Z",
+    "generation": 6484
+  },
+  {
+    "startTime": "2024-01-03T11:30:00.000Z",
+    "generation": 6258
+  },
+  {
+    "startTime": "2024-01-03T12:00:00.000Z",
+    "generation": 6200
+  },
+  {
+    "startTime": "2024-01-03T12:30:00.000Z",
+    "generation": 6088
+  },
+  {
+    "startTime": "2024-01-03T13:00:00.000Z",
+    "generation": 5823
+  },
+  {
+    "startTime": "2024-01-03T13:30:00.000Z",
+    "generation": 5825
+  },
+  {
+    "startTime": "2024-01-03T14:00:00.000Z",
+    "generation": 5928
+  },
+  {
+    "startTime": "2024-01-03T14:30:00.000Z",
+    "generation": 5826
+  },
+  {
+    "startTime": "2024-01-03T15:00:00.000Z",
+    "generation": 6052
+  },
+  {
+    "startTime": "2024-01-03T15:30:00.000Z",
+    "generation": 6367
+  },
+  {
+    "startTime": "2024-01-03T16:00:00.000Z",
+    "generation": 6591
+  },
+  {
+    "startTime": "2024-01-03T16:30:00.000Z",
+    "generation": 6805
+  },
+  {
+    "startTime": "2024-01-03T17:00:00.000Z",
+    "generation": 7044
+  },
+  {
+    "startTime": "2024-01-03T17:30:00.000Z",
+    "generation": 7119
+  },
+  {
+    "startTime": "2024-01-03T18:00:00.000Z",
+    "generation": 7192
+  },
+  {
+    "startTime": "2024-01-03T18:30:00.000Z",
+    "generation": 7171
+  },
+  {
+    "startTime": "2024-01-03T19:00:00.000Z",
+    "generation": 7131
+  },
+  {
+    "startTime": "2024-01-03T19:30:00.000Z",
+    "generation": 7150
+  },
+  {
+    "startTime": "2024-01-03T20:00:00.000Z",
+    "generation": 7039
+  },
+  {
+    "startTime": "2024-01-03T20:30:00.000Z",
+    "generation": 7005
+  },
+  {
+    "startTime": "2024-01-03T21:00:00.000Z",
+    "generation": 6945
+  },
+  {
+    "startTime": "2024-01-03T21:30:00.000Z",
+    "generation": 6773
+  },
+  {
+    "startTime": "2024-01-03T22:00:00.000Z",
+    "generation": 6611
+  },
+  {
+    "startTime": "2024-01-03T22:30:00.000Z",
+    "generation": 6680
+  },
+  {
+    "startTime": "2024-01-03T23:00:00.000Z",
+    "generation": 6813
+  },
+  {
+    "startTime": "2024-01-03T23:30:00.000Z",
+    "generation": 6793
+  },
+  {
+    "startTime": "2024-01-04T00:00:00.000Z",
+    "generation": 7112
+  },
+  {
+    "startTime": "2024-01-04T00:30:00.000Z",
+    "generation": 7536
+  },
+  {
+    "startTime": "2024-01-04T01:00:00.000Z",
+    "generation": 7743
+  },
+  {
+    "startTime": "2024-01-04T01:30:00.000Z",
+    "generation": 8071
+  },
+  {
+    "startTime": "2024-01-04T02:00:00.000Z",
+    "generation": 8269
+  },
+  {
+    "startTime": "2024-01-04T02:30:00.000Z",
+    "generation": 8255
+  },
+  {
+    "startTime": "2024-01-04T03:00:00.000Z",
+    "generation": 8118
+  },
+  {
+    "startTime": "2024-01-04T03:30:00.000Z",
+    "generation": 7866
+  },
+  {
+    "startTime": "2024-01-04T04:00:00.000Z",
+    "generation": 7666
+  },
+  {
+    "startTime": "2024-01-04T04:30:00.000Z",
+    "generation": 7708
+  },
+  {
+    "startTime": "2024-01-04T05:00:00.000Z",
+    "generation": 7859
+  },
+  {
+    "startTime": "2024-01-04T05:30:00.000Z",
+    "generation": 8218
+  },
+  {
+    "startTime": "2024-01-04T06:00:00.000Z",
+    "generation": 8359
+  },
+  {
+    "startTime": "2024-01-04T06:30:00.000Z",
+    "generation": 8212
+  },
+  {
+    "startTime": "2024-01-04T07:00:00.000Z",
+    "generation": 7815
+  },
+  {
+    "startTime": "2024-01-04T07:30:00.000Z",
+    "generation": 7266
+  },
+  {
+    "startTime": "2024-01-04T08:00:00.000Z",
+    "generation": 6880
+  },
+  {
+    "startTime": "2024-01-04T08:30:00.000Z",
+    "generation": 6898
+  },
+  {
+    "startTime": "2024-01-04T09:00:00.000Z",
+    "generation": 6841
+  },
+  {
+    "startTime": "2024-01-04T09:30:00.000Z",
+    "generation": 6731
+  },
+  {
+    "startTime": "2024-01-04T10:00:00.000Z",
+    "generation": 6394
+  },
+  {
+    "startTime": "2024-01-04T10:30:00.000Z",
+    "generation": 6032
+  },
+  {
+    "startTime": "2024-01-04T11:00:00.000Z",
+    "generation": 5193
+  },
+  {
+    "startTime": "2024-01-04T11:30:00.000Z",
+    "generation": 4691
+  },
+  {
+    "startTime": "2024-01-04T12:00:00.000Z",
+    "generation": 4421
+  },
+  {
+    "startTime": "2024-01-04T12:30:00.000Z",
+    "generation": 4091
+  },
+  {
+    "startTime": "2024-01-04T13:00:00.000Z",
+    "generation": 3544
+  },
+  {
+    "startTime": "2024-01-04T13:30:00.000Z",
+    "generation": 3291
+  },
+  {
+    "startTime": "2024-01-04T14:00:00.000Z",
+    "generation": 3394
+  },
+  {
+    "startTime": "2024-01-04T14:30:00.000Z",
+    "generation": 3168
+  },
+  {
+    "startTime": "2024-01-04T15:00:00.000Z",
+    "generation": 2988
+  },
+  {
+    "startTime": "2024-01-04T15:30:00.000Z",
+    "generation": 3004
+  },
+  {
+    "startTime": "2024-01-04T16:00:00.000Z",
+    "generation": 3039
+  },
+  {
+    "startTime": "2024-01-04T16:30:00.000Z",
+    "generation": 3074
+  },
+  {
+    "startTime": "2024-01-04T17:00:00.000Z",
+    "generation": 3204
+  },
+  {
+    "startTime": "2024-01-04T17:30:00.000Z",
+    "generation": 3277
+  },
+  {
+    "startTime": "2024-01-04T18:00:00.000Z",
+    "generation": 3862
+  },
+  {
+    "startTime": "2024-01-04T18:30:00.000Z",
+    "generation": 4177
+  },
+  {
+    "startTime": "2024-01-04T19:00:00.000Z",
+    "generation": 4459
+  },
+  {
+    "startTime": "2024-01-04T19:30:00.000Z",
+    "generation": 4669
+  },
+  {
+    "startTime": "2024-01-04T20:00:00.000Z",
+    "generation": 4751
+  },
+  {
+    "startTime": "2024-01-04T20:30:00.000Z",
+    "generation": 5048
+  },
+  {
+    "startTime": "2024-01-04T21:00:00.000Z",
+    "generation": 5331
+  },
+  {
+    "startTime": "2024-01-04T21:30:00.000Z",
+    "generation": 5361
+  },
+  {
+    "startTime": "2024-01-04T22:00:00.000Z",
+    "generation": 5052
+  },
+  {
+    "startTime": "2024-01-04T22:30:00.000Z",
+    "generation": 5148
+  },
+  {
+    "startTime": "2024-01-04T23:00:00.000Z",
+    "generation": 5263
+  },
+  {
+    "startTime": "2024-01-04T23:30:00.000Z",
+    "generation": 5428
+  },
+  {
+    "startTime": "2024-01-05T00:00:00.000Z",
+    "generation": 5740
+  },
+  {
+    "startTime": "2024-01-05T00:30:00.000Z",
+    "generation": 5799
+  },
+  {
+    "startTime": "2024-01-05T01:00:00.000Z",
+    "generation": 5813
+  },
+  {
+    "startTime": "2024-01-05T01:30:00.000Z",
+    "generation": 6007
+  },
+  {
+    "startTime": "2024-01-05T02:00:00.000Z",
+    "generation": 5990
+  },
+  {
+    "startTime": "2024-01-05T02:30:00.000Z",
+    "generation": 6535
+  },
+  {
+    "startTime": "2024-01-05T03:00:00.000Z",
+    "generation": 6547
+  },
+  {
+    "startTime": "2024-01-05T03:30:00.000Z",
+    "generation": 6637
+  },
+  {
+    "startTime": "2024-01-05T04:00:00.000Z",
+    "generation": 6416
+  },
+  {
+    "startTime": "2024-01-05T04:30:00.000Z",
+    "generation": 6393
+  },
+  {
+    "startTime": "2024-01-05T05:00:00.000Z",
+    "generation": 6485
+  },
+  {
+    "startTime": "2024-01-05T05:30:00.000Z",
+    "generation": 7266
+  },
+  {
+    "startTime": "2024-01-05T06:00:00.000Z",
+    "generation": 7916
+  },
+  {
+    "startTime": "2024-01-05T06:30:00.000Z",
+    "generation": 8154
+  },
+  {
+    "startTime": "2024-01-05T07:00:00.000Z",
+    "generation": 8250
+  },
+  {
+    "startTime": "2024-01-05T07:30:00.000Z",
+    "generation": 8265
+  },
+  {
+    "startTime": "2024-01-05T08:00:00.000Z",
+    "generation": 8316
+  },
+  {
+    "startTime": "2024-01-05T08:30:00.000Z",
+    "generation": 8672
+  },
+  {
+    "startTime": "2024-01-05T09:00:00.000Z",
+    "generation": 8545
+  },
+  {
+    "startTime": "2024-01-05T09:30:00.000Z",
+    "generation": 8173
+  },
+  {
+    "startTime": "2024-01-05T10:00:00.000Z",
+    "generation": 8007
+  },
+  {
+    "startTime": "2024-01-05T10:30:00.000Z",
+    "generation": 7973
+  },
+  {
+    "startTime": "2024-01-05T11:00:00.000Z",
+    "generation": 8164
+  },
+  {
+    "startTime": "2024-01-05T11:30:00.000Z",
+    "generation": 8430
+  },
+  {
+    "startTime": "2024-01-05T12:00:00.000Z",
+    "generation": 8539
+  },
+  {
+    "startTime": "2024-01-05T12:30:00.000Z",
+    "generation": 8670
+  },
+  {
+    "startTime": "2024-01-05T13:00:00.000Z",
+    "generation": 8724
+  },
+  {
+    "startTime": "2024-01-05T13:30:00.000Z",
+    "generation": 8771
+  },
+  {
+    "startTime": "2024-01-05T14:00:00.000Z",
+    "generation": 8984
+  },
+  {
+    "startTime": "2024-01-05T14:30:00.000Z",
+    "generation": 8839
+  },
+  {
+    "startTime": "2024-01-05T15:00:00.000Z",
+    "generation": 8657
+  },
+  {
+    "startTime": "2024-01-05T15:30:00.000Z",
+    "generation": 8476
+  },
+  {
+    "startTime": "2024-01-05T16:00:00.000Z",
+    "generation": 8416
+  },
+  {
+    "startTime": "2024-01-05T16:30:00.000Z",
+    "generation": 8259
+  },
+  {
+    "startTime": "2024-01-05T17:00:00.000Z",
+    "generation": 7986
+  },
+  {
+    "startTime": "2024-01-05T17:30:00.000Z",
+    "generation": 7852
+  },
+  {
+    "startTime": "2024-01-05T18:00:00.000Z",
+    "generation": 7790
+  },
+  {
+    "startTime": "2024-01-05T18:30:00.000Z",
+    "generation": 7484
+  },
+  {
+    "startTime": "2024-01-05T19:00:00.000Z",
+    "generation": 7236
+  },
+  {
+    "startTime": "2024-01-05T19:30:00.000Z",
+    "generation": 7284
+  },
+  {
+    "startTime": "2024-01-05T20:00:00.000Z",
+    "generation": 7104
+  },
+  {
+    "startTime": "2024-01-05T20:30:00.000Z",
+    "generation": 6659
+  },
+  {
+    "startTime": "2024-01-05T21:00:00.000Z",
+    "generation": 6579
+  },
+  {
+    "startTime": "2024-01-05T21:30:00.000Z",
+    "generation": 6555
+  },
+  {
+    "startTime": "2024-01-05T22:00:00.000Z",
+    "generation": 6280
+  },
+  {
+    "startTime": "2024-01-05T22:30:00.000Z",
+    "generation": 6020
+  },
+  {
+    "startTime": "2024-01-05T23:00:00.000Z",
+    "generation": 5845
+  },
+  {
+    "startTime": "2024-01-05T23:30:00.000Z",
+    "generation": 5746
+  },
+  {
+    "startTime": "2024-01-06T00:00:00.000Z",
+    "generation": 5741
+  },
+  {
+    "startTime": "2024-01-06T00:30:00.000Z",
+    "generation": 5860
+  },
+  {
+    "startTime": "2024-01-06T01:00:00.000Z",
+    "generation": 5877
+  },
+  {
+    "startTime": "2024-01-06T01:30:00.000Z",
+    "generation": 6004
+  },
+  {
+    "startTime": "2024-01-06T02:00:00.000Z",
+    "generation": 6107
+  },
+  {
+    "startTime": "2024-01-06T02:30:00.000Z",
+    "generation": 6127
+  },
+  {
+    "startTime": "2024-01-06T03:00:00.000Z",
+    "generation": 6074
+  },
+  {
+    "startTime": "2024-01-06T03:30:00.000Z",
+    "generation": 5968
+  },
+  {
+    "startTime": "2024-01-06T04:00:00.000Z",
+    "generation": 5871
+  },
+  {
+    "startTime": "2024-01-06T04:30:00.000Z",
+    "generation": 5784
+  },
+  {
+    "startTime": "2024-01-06T05:00:00.000Z",
+    "generation": 5734
+  },
+  {
+    "startTime": "2024-01-06T05:30:00.000Z",
+    "generation": 5687
+  },
+  {
+    "startTime": "2024-01-06T06:00:00.000Z",
+    "generation": 5712
+  },
+  {
+    "startTime": "2024-01-06T06:30:00.000Z",
+    "generation": 5868
+  },
+  {
+    "startTime": "2024-01-06T07:00:00.000Z",
+    "generation": 6033
+  },
+  {
+    "startTime": "2024-01-06T07:30:00.000Z",
+    "generation": 5887
+  },
+  {
+    "startTime": "2024-01-06T08:00:00.000Z",
+    "generation": 5771
+  },
+  {
+    "startTime": "2024-01-06T08:30:00.000Z",
+    "generation": 5610
+  },
+  {
+    "startTime": "2024-01-06T09:00:00.000Z",
+    "generation": 5244
+  },
+  {
+    "startTime": "2024-01-06T09:30:00.000Z",
+    "generation": 5113
+  },
+  {
+    "startTime": "2024-01-06T10:00:00.000Z",
+    "generation": 4940
+  },
+  {
+    "startTime": "2024-01-06T10:30:00.000Z",
+    "generation": 4782
+  },
+  {
+    "startTime": "2024-01-06T11:00:00.000Z",
+    "generation": 4696
+  },
+  {
+    "startTime": "2024-01-06T11:30:00.000Z",
+    "generation": 4599
+  },
+  {
+    "startTime": "2024-01-06T12:00:00.000Z",
+    "generation": 4362
+  },
+  {
+    "startTime": "2024-01-06T12:30:00.000Z",
+    "generation": 4529
+  },
+  {
+    "startTime": "2024-01-06T13:00:00.000Z",
+    "generation": 4591
+  },
+  {
+    "startTime": "2024-01-06T13:30:00.000Z",
+    "generation": 4683
+  },
+  {
+    "startTime": "2024-01-06T14:00:00.000Z",
+    "generation": 4539
+  },
+  {
+    "startTime": "2024-01-06T14:30:00.000Z",
+    "generation": 4613
+  },
+  {
+    "startTime": "2024-01-06T15:00:00.000Z",
+    "generation": 4631
+  },
+  {
+    "startTime": "2024-01-06T15:30:00.000Z",
+    "generation": 4864
+  },
+  {
+    "startTime": "2024-01-06T16:00:00.000Z",
+    "generation": 5248
+  },
+  {
+    "startTime": "2024-01-06T16:30:00.000Z",
+    "generation": 5194
+  },
+  {
+    "startTime": "2024-01-06T17:00:00.000Z",
+    "generation": 5212
+  },
+  {
+    "startTime": "2024-01-06T17:30:00.000Z",
+    "generation": 5203
+  },
+  {
+    "startTime": "2024-01-06T18:00:00.000Z",
+    "generation": 5050
+  },
+  {
+    "startTime": "2024-01-06T18:30:00.000Z",
+    "generation": 4778
+  },
+  {
+    "startTime": "2024-01-06T19:00:00.000Z",
+    "generation": 4878
+  },
+  {
+    "startTime": "2024-01-06T19:30:00.000Z",
+    "generation": 4946
+  },
+  {
+    "startTime": "2024-01-06T20:00:00.000Z",
+    "generation": 5132
+  },
+  {
+    "startTime": "2024-01-06T20:30:00.000Z",
+    "generation": 4911
+  },
+  {
+    "startTime": "2024-01-06T21:00:00.000Z",
+    "generation": 4916
+  },
+  {
+    "startTime": "2024-01-06T21:30:00.000Z",
+    "generation": 4906
+  },
+  {
+    "startTime": "2024-01-06T22:00:00.000Z",
+    "generation": 5090
+  },
+  {
+    "startTime": "2024-01-06T22:30:00.000Z",
+    "generation": 5275
+  },
+  {
+    "startTime": "2024-01-06T23:00:00.000Z",
+    "generation": 5175
+  },
+  {
+    "startTime": "2024-01-06T23:30:00.000Z",
+    "generation": 5390
+  },
+  {
+    "startTime": "2024-01-07T00:00:00.000Z",
+    "generation": 5708
+  },
+  {
+    "startTime": "2024-01-07T00:30:00.000Z",
+    "generation": 5552
+  },
+  {
+    "startTime": "2024-01-07T01:00:00.000Z",
+    "generation": 5803
+  },
+  {
+    "startTime": "2024-01-07T01:30:00.000Z",
+    "generation": 5946
+  },
+  {
+    "startTime": "2024-01-07T02:00:00.000Z",
+    "generation": 5904
+  },
+  {
+    "startTime": "2024-01-07T02:30:00.000Z",
+    "generation": 5770
+  },
+  {
+    "startTime": "2024-01-07T03:00:00.000Z",
+    "generation": 5881
+  },
+  {
+    "startTime": "2024-01-07T03:30:00.000Z",
+    "generation": 6176
+  },
+  {
+    "startTime": "2024-01-07T04:00:00.000Z",
+    "generation": 6342
+  },
+  {
+    "startTime": "2024-01-07T04:30:00.000Z",
+    "generation": 6066
+  },
+  {
+    "startTime": "2024-01-07T05:00:00.000Z",
+    "generation": 6290
+  },
+  {
+    "startTime": "2024-01-07T05:30:00.000Z",
+    "generation": 6434
+  },
+  {
+    "startTime": "2024-01-07T06:00:00.000Z",
+    "generation": 6402
+  },
+  {
+    "startTime": "2024-01-07T06:30:00.000Z",
+    "generation": 6440
+  },
+  {
+    "startTime": "2024-01-07T07:00:00.000Z",
+    "generation": 6138
+  },
+  {
+    "startTime": "2024-01-07T07:30:00.000Z",
+    "generation": 6109
+  },
+  {
+    "startTime": "2024-01-07T08:00:00.000Z",
+    "generation": 6044
+  },
+  {
+    "startTime": "2024-01-07T08:30:00.000Z",
+    "generation": 5612
+  },
+  {
+    "startTime": "2024-01-07T09:00:00.000Z",
+    "generation": 5549
+  },
+  {
+    "startTime": "2024-01-07T09:30:00.000Z",
+    "generation": 5385
+  },
+  {
+    "startTime": "2024-01-07T10:00:00.000Z",
+    "generation": 5311
+  },
+  {
+    "startTime": "2024-01-07T10:30:00.000Z",
+    "generation": 5015
+  },
+  {
+    "startTime": "2024-01-07T11:00:00.000Z",
+    "generation": 4848
+  },
+  {
+    "startTime": "2024-01-07T11:30:00.000Z",
+    "generation": 4648
+  },
+  {
+    "startTime": "2024-01-07T12:00:00.000Z",
+    "generation": 4435
+  },
+  {
+    "startTime": "2024-01-07T12:30:00.000Z",
+    "generation": 4391
+  },
+  {
+    "startTime": "2024-01-07T13:00:00.000Z",
+    "generation": 4437
+  },
+  {
+    "startTime": "2024-01-07T13:30:00.000Z",
+    "generation": 4327
+  },
+  {
+    "startTime": "2024-01-07T14:00:00.000Z",
+    "generation": 4332
+  },
+  {
+    "startTime": "2024-01-07T14:30:00.000Z",
+    "generation": 4352
+  },
+  {
+    "startTime": "2024-01-07T15:00:00.000Z",
+    "generation": 4325
+  },
+  {
+    "startTime": "2024-01-07T15:30:00.000Z",
+    "generation": 4315
+  },
+  {
+    "startTime": "2024-01-07T16:00:00.000Z",
+    "generation": 4299
+  },
+  {
+    "startTime": "2024-01-07T16:30:00.000Z",
+    "generation": 4305
+  },
+  {
+    "startTime": "2024-01-07T17:00:00.000Z",
+    "generation": 4316
+  },
+  {
+    "startTime": "2024-01-07T17:30:00.000Z",
+    "generation": 4325
+  },
+  {
+    "startTime": "2024-01-07T18:00:00.000Z",
+    "generation": 4324
+  },
+  {
+    "startTime": "2024-01-07T18:30:00.000Z",
+    "generation": 4281
+  },
+  {
+    "startTime": "2024-01-07T19:00:00.000Z",
+    "generation": 4202
+  },
+  {
+    "startTime": "2024-01-07T19:30:00.000Z",
+    "generation": 4169
+  },
+  {
+    "startTime": "2024-01-07T20:00:00.000Z",
+    "generation": 4032
+  },
+  {
+    "startTime": "2024-01-07T20:30:00.000Z",
+    "generation": 4017
+  },
+  {
+    "startTime": "2024-01-07T21:00:00.000Z",
+    "generation": 3992
+  },
+  {
+    "startTime": "2024-01-07T21:30:00.000Z",
+    "generation": 4030
+  },
+  {
+    "startTime": "2024-01-07T22:00:00.000Z",
+    "generation": 3994
+  },
+  {
+    "startTime": "2024-01-07T22:30:00.000Z",
+    "generation": 4100
+  },
+  {
+    "startTime": "2024-01-07T23:00:00.000Z",
+    "generation": 4242
+  },
+  {
+    "startTime": "2024-01-07T23:30:00.000Z",
+    "generation": 4275
+  },
+  {
+    "startTime": "2024-01-08T00:00:00.000Z",
+    "generation": 4629
+  },
+  {
+    "startTime": "2024-01-08T00:30:00.000Z",
+    "generation": 4730
+  },
+  {
+    "startTime": "2024-01-08T01:00:00.000Z",
+    "generation": 5033
+  },
+  {
+    "startTime": "2024-01-08T01:30:00.000Z",
+    "generation": 5215
+  },
+  {
+    "startTime": "2024-01-08T02:00:00.000Z",
+    "generation": 5342
+  },
+  {
+    "startTime": "2024-01-08T02:30:00.000Z",
+    "generation": 6043
+  },
+  {
+    "startTime": "2024-01-08T03:00:00.000Z",
+    "generation": 6274
+  },
+  {
+    "startTime": "2024-01-08T03:30:00.000Z",
+    "generation": 6533
+  },
+  {
+    "startTime": "2024-01-08T04:00:00.000Z",
+    "generation": 6980
+  },
+  {
+    "startTime": "2024-01-08T04:30:00.000Z",
+    "generation": 6945
+  },
+  {
+    "startTime": "2024-01-08T05:00:00.000Z",
+    "generation": 7381
+  },
+  {
+    "startTime": "2024-01-08T05:30:00.000Z",
+    "generation": 7292
+  },
+  {
+    "startTime": "2024-01-08T06:00:00.000Z",
+    "generation": 7472
+  },
+  {
+    "startTime": "2024-01-08T06:30:00.000Z",
+    "generation": 7502
+  },
+  {
+    "startTime": "2024-01-08T07:00:00.000Z",
+    "generation": 7640
+  },
+  {
+    "startTime": "2024-01-08T07:30:00.000Z",
+    "generation": 8031
+  },
+  {
+    "startTime": "2024-01-08T08:00:00.000Z",
+    "generation": 8230
+  },
+  {
+    "startTime": "2024-01-08T08:30:00.000Z",
+    "generation": 8551
+  },
+  {
+    "startTime": "2024-01-08T09:00:00.000Z",
+    "generation": 8833
+  },
+  {
+    "startTime": "2024-01-08T09:30:00.000Z",
+    "generation": 9199
+  },
+  {
+    "startTime": "2024-01-08T10:00:00.000Z",
+    "generation": 9334
+  },
+  {
+    "startTime": "2024-01-08T10:30:00.000Z",
+    "generation": 9545
+  },
+  {
+    "startTime": "2024-01-08T11:00:00.000Z",
+    "generation": 9777
+  },
+  {
+    "startTime": "2024-01-08T11:30:00.000Z",
+    "generation": 9986
+  },
+  {
+    "startTime": "2024-01-08T12:00:00.000Z",
+    "generation": 10111
+  },
+  {
+    "startTime": "2024-01-08T12:30:00.000Z",
+    "generation": 10163
+  },
+  {
+    "startTime": "2024-01-08T13:00:00.000Z",
+    "generation": 10469
+  },
+  {
+    "startTime": "2024-01-08T13:30:00.000Z",
+    "generation": 10499
+  },
+  {
+    "startTime": "2024-01-08T14:00:00.000Z",
+    "generation": 10377
+  },
+  {
+    "startTime": "2024-01-08T14:30:00.000Z",
+    "generation": 10226
+  },
+  {
+    "startTime": "2024-01-08T15:00:00.000Z",
+    "generation": 10317
+  },
+  {
+    "startTime": "2024-01-08T15:30:00.000Z",
+    "generation": 10616
+  },
+  {
+    "startTime": "2024-01-08T16:00:00.000Z",
+    "generation": 10769
+  },
+  {
+    "startTime": "2024-01-08T16:30:00.000Z",
+    "generation": 10783
+  },
+  {
+    "startTime": "2024-01-08T17:00:00.000Z",
+    "generation": 10919
+  },
+  {
+    "startTime": "2024-01-08T17:30:00.000Z",
+    "generation": 11535
+  },
+  {
+    "startTime": "2024-01-08T18:00:00.000Z",
+    "generation": 11362
+  },
+  {
+    "startTime": "2024-01-08T18:30:00.000Z",
+    "generation": 11439
+  },
+  {
+    "startTime": "2024-01-08T19:00:00.000Z",
+    "generation": 11412
+  },
+  {
+    "startTime": "2024-01-08T19:30:00.000Z",
+    "generation": 11371
+  },
+  {
+    "startTime": "2024-01-08T20:00:00.000Z",
+    "generation": 11536
+  },
+  {
+    "startTime": "2024-01-08T20:30:00.000Z",
+    "generation": 11592
+  },
+  {
+    "startTime": "2024-01-08T21:00:00.000Z",
+    "generation": 11660
+  },
+  {
+    "startTime": "2024-01-08T21:30:00.000Z",
+    "generation": 11738
+  },
+  {
+    "startTime": "2024-01-08T22:00:00.000Z",
+    "generation": 11616
+  },
+  {
+    "startTime": "2024-01-08T22:30:00.000Z",
+    "generation": 11782
+  },
+  {
+    "startTime": "2024-01-08T23:00:00.000Z",
+    "generation": 11895
+  },
+  {
+    "startTime": "2024-01-08T23:30:00.000Z",
+    "generation": 11909
+  },
+  {
+    "startTime": "2024-01-09T00:00:00.000Z",
+    "generation": 11819
+  },
+  {
+    "startTime": "2024-01-09T00:30:00.000Z",
+    "generation": 11652
+  },
+  {
+    "startTime": "2024-01-09T01:00:00.000Z",
+    "generation": 11440
+  },
+  {
+    "startTime": "2024-01-09T01:30:00.000Z",
+    "generation": 11277
+  },
+  {
+    "startTime": "2024-01-09T02:00:00.000Z",
+    "generation": 11298
+  },
+  {
+    "startTime": "2024-01-09T02:30:00.000Z",
+    "generation": 11381
+  },
+  {
+    "startTime": "2024-01-09T03:00:00.000Z",
+    "generation": 11356
+  },
+  {
+    "startTime": "2024-01-09T03:30:00.000Z",
+    "generation": 11480
+  },
+  {
+    "startTime": "2024-01-09T04:00:00.000Z",
+    "generation": 11574
+  },
+  {
+    "startTime": "2024-01-09T04:30:00.000Z",
+    "generation": 11558
+  },
+  {
+    "startTime": "2024-01-09T05:00:00.000Z",
+    "generation": 11483
+  },
+  {
+    "startTime": "2024-01-09T05:30:00.000Z",
+    "generation": 11558
+  },
+  {
+    "startTime": "2024-01-09T06:00:00.000Z",
+    "generation": 11659
+  },
+  {
+    "startTime": "2024-01-09T06:30:00.000Z",
+    "generation": 11944
+  },
+  {
+    "startTime": "2024-01-09T07:00:00.000Z",
+    "generation": 12192
+  },
+  {
+    "startTime": "2024-01-09T07:30:00.000Z",
+    "generation": 12320
+  },
+  {
+    "startTime": "2024-01-09T08:00:00.000Z",
+    "generation": 12298
+  },
+  {
+    "startTime": "2024-01-09T08:30:00.000Z",
+    "generation": 12385
+  },
+  {
+    "startTime": "2024-01-09T09:00:00.000Z",
+    "generation": 12411
+  },
+  {
+    "startTime": "2024-01-09T09:30:00.000Z",
+    "generation": 12380
+  },
+  {
+    "startTime": "2024-01-09T10:00:00.000Z",
+    "generation": 12481
+  },
+  {
+    "startTime": "2024-01-09T10:30:00.000Z",
+    "generation": 12374
+  },
+  {
+    "startTime": "2024-01-09T11:00:00.000Z",
+    "generation": 12275
+  },
+  {
+    "startTime": "2024-01-09T11:30:00.000Z",
+    "generation": 12042
+  },
+  {
+    "startTime": "2024-01-09T12:00:00.000Z",
+    "generation": 11866
+  },
+  {
+    "startTime": "2024-01-09T12:30:00.000Z",
+    "generation": 11886
+  },
+  {
+    "startTime": "2024-01-09T13:00:00.000Z",
+    "generation": 11806
+  },
+  {
+    "startTime": "2024-01-09T13:30:00.000Z",
+    "generation": 11550
+  },
+  {
+    "startTime": "2024-01-09T14:00:00.000Z",
+    "generation": 11493
+  },
+  {
+    "startTime": "2024-01-09T14:30:00.000Z",
+    "generation": 11161
+  },
+  {
+    "startTime": "2024-01-09T15:00:00.000Z",
+    "generation": 10939
+  },
+  {
+    "startTime": "2024-01-09T15:30:00.000Z",
+    "generation": 11024
+  },
+  {
+    "startTime": "2024-01-09T16:00:00.000Z",
+    "generation": 11052
+  },
+  {
+    "startTime": "2024-01-09T16:30:00.000Z",
+    "generation": 11000
+  },
+  {
+    "startTime": "2024-01-09T17:00:00.000Z",
+    "generation": 11135
+  },
+  {
+    "startTime": "2024-01-09T17:30:00.000Z",
+    "generation": 11313
+  },
+  {
+    "startTime": "2024-01-09T18:00:00.000Z",
+    "generation": 11240
+  },
+  {
+    "startTime": "2024-01-09T18:30:00.000Z",
+    "generation": 11395
+  },
+  {
+    "startTime": "2024-01-09T19:00:00.000Z",
+    "generation": 11476
+  },
+  {
+    "startTime": "2024-01-09T19:30:00.000Z",
+    "generation": 11504
+  },
+  {
+    "startTime": "2024-01-09T20:00:00.000Z",
+    "generation": 11428
+  },
+  {
+    "startTime": "2024-01-09T20:30:00.000Z",
+    "generation": 11228
+  },
+  {
+    "startTime": "2024-01-09T21:00:00.000Z",
+    "generation": 11128
+  },
+  {
+    "startTime": "2024-01-09T21:30:00.000Z",
+    "generation": 10915
+  },
+  {
+    "startTime": "2024-01-09T22:00:00.000Z",
+    "generation": 11005
+  },
+  {
+    "startTime": "2024-01-09T22:30:00.000Z",
+    "generation": 10866
+  },
+  {
+    "startTime": "2024-01-09T23:00:00.000Z",
+    "generation": 10685
+  },
+  {
+    "startTime": "2024-01-09T23:30:00.000Z",
+    "generation": 10364
+  },
+  {
+    "startTime": "2024-01-10T00:00:00.000Z",
+    "generation": 10003
+  },
+  {
+    "startTime": "2024-01-10T00:30:00.000Z",
+    "generation": 9663
+  },
+  {
+    "startTime": "2024-01-10T01:00:00.000Z",
+    "generation": 9662
+  },
+  {
+    "startTime": "2024-01-10T01:30:00.000Z",
+    "generation": 9498
+  },
+  {
+    "startTime": "2024-01-10T02:00:00.000Z",
+    "generation": 8765
+  },
+  {
+    "startTime": "2024-01-10T02:30:00.000Z",
+    "generation": 8269
+  },
+  {
+    "startTime": "2024-01-10T03:00:00.000Z",
+    "generation": 7933
+  },
+  {
+    "startTime": "2024-01-10T03:30:00.000Z",
+    "generation": 7910
+  },
+  {
+    "startTime": "2024-01-10T04:00:00.000Z",
+    "generation": 7728
+  },
+  {
+    "startTime": "2024-01-10T04:30:00.000Z",
+    "generation": 7581
+  },
+  {
+    "startTime": "2024-01-10T05:00:00.000Z",
+    "generation": 7538
+  },
+  {
+    "startTime": "2024-01-10T05:30:00.000Z",
+    "generation": 7423
+  },
+  {
+    "startTime": "2024-01-10T06:00:00.000Z",
+    "generation": 7277
+  },
+  {
+    "startTime": "2024-01-10T06:30:00.000Z",
+    "generation": 7070
+  },
+  {
+    "startTime": "2024-01-10T07:00:00.000Z",
+    "generation": 6908
+  },
+  {
+    "startTime": "2024-01-10T07:30:00.000Z",
+    "generation": 6740
+  },
+  {
+    "startTime": "2024-01-10T08:00:00.000Z",
+    "generation": 6625
+  },
+  {
+    "startTime": "2024-01-10T08:30:00.000Z",
+    "generation": 6547
+  },
+  {
+    "startTime": "2024-01-10T09:00:00.000Z",
+    "generation": 6420
+  },
+  {
+    "startTime": "2024-01-10T09:30:00.000Z",
+    "generation": 6497
+  },
+  {
+    "startTime": "2024-01-10T10:00:00.000Z",
+    "generation": 6564
+  },
+  {
+    "startTime": "2024-01-10T10:30:00.000Z",
+    "generation": 6734
+  },
+  {
+    "startTime": "2024-01-10T11:00:00.000Z",
+    "generation": 6752
+  },
+  {
+    "startTime": "2024-01-10T11:30:00.000Z",
+    "generation": 6771
+  },
+  {
+    "startTime": "2024-01-10T12:00:00.000Z",
+    "generation": 6774
+  },
+  {
+    "startTime": "2024-01-10T12:30:00.000Z",
+    "generation": 6969
+  },
+  {
+    "startTime": "2024-01-10T13:00:00.000Z",
+    "generation": 7172
+  },
+  {
+    "startTime": "2024-01-10T13:30:00.000Z",
+    "generation": 7338
+  },
+  {
+    "startTime": "2024-01-10T14:00:00.000Z",
+    "generation": 7684
+  },
+  {
+    "startTime": "2024-01-10T14:30:00.000Z",
+    "generation": 7899
+  },
+  {
+    "startTime": "2024-01-10T15:00:00.000Z",
+    "generation": 8027
+  },
+  {
+    "startTime": "2024-01-10T15:30:00.000Z",
+    "generation": 8042
+  },
+  {
+    "startTime": "2024-01-10T16:00:00.000Z",
+    "generation": 6983
+  },
+  {
+    "startTime": "2024-01-10T16:30:00.000Z",
+    "generation": 8777
+  },
+  {
+    "startTime": "2024-01-10T17:00:00.000Z",
+    "generation": 8970
+  },
+  {
+    "startTime": "2024-01-10T17:30:00.000Z",
+    "generation": 9026
+  },
+  {
+    "startTime": "2024-01-10T18:00:00.000Z",
+    "generation": 8944
+  },
+  {
+    "startTime": "2024-01-10T18:30:00.000Z",
+    "generation": 8926
+  },
+  {
+    "startTime": "2024-01-10T19:00:00.000Z",
+    "generation": 8831
+  },
+  {
+    "startTime": "2024-01-10T19:30:00.000Z",
+    "generation": 8987
+  },
+  {
+    "startTime": "2024-01-10T20:00:00.000Z",
+    "generation": 8785
+  },
+  {
+    "startTime": "2024-01-10T20:30:00.000Z",
+    "generation": 8520
+  },
+  {
+    "startTime": "2024-01-10T21:00:00.000Z",
+    "generation": 8234
+  },
+  {
+    "startTime": "2024-01-10T21:30:00.000Z",
+    "generation": 7743
+  },
+  {
+    "startTime": "2024-01-10T22:00:00.000Z",
+    "generation": 6978
+  },
+  {
+    "startTime": "2024-01-10T22:30:00.000Z",
+    "generation": 6800
+  },
+  {
+    "startTime": "2024-01-10T23:00:00.000Z",
+    "generation": 6690
+  },
+  {
+    "startTime": "2024-01-10T23:30:00.000Z",
+    "generation": 6737
+  },
+  {
+    "startTime": "2024-01-11T00:00:00.000Z",
+    "generation": 6538
+  },
+  {
+    "startTime": "2024-01-11T00:30:00.000Z",
+    "generation": 6372
+  },
+  {
+    "startTime": "2024-01-11T01:00:00.000Z",
+    "generation": 6143
+  },
+  {
+    "startTime": "2024-01-11T01:30:00.000Z",
+    "generation": 5994
+  },
+  {
+    "startTime": "2024-01-11T02:00:00.000Z",
+    "generation": 5824
+  },
+  {
+    "startTime": "2024-01-11T02:30:00.000Z",
+    "generation": 5568
+  },
+  {
+    "startTime": "2024-01-11T03:00:00.000Z",
+    "generation": 5469
+  },
+  {
+    "startTime": "2024-01-11T03:30:00.000Z",
+    "generation": 5521
+  },
+  {
+    "startTime": "2024-01-11T04:00:00.000Z",
+    "generation": 5671
+  },
+  {
+    "startTime": "2024-01-11T04:30:00.000Z",
+    "generation": 5683
+  },
+  {
+    "startTime": "2024-01-11T05:00:00.000Z",
+    "generation": 5605
+  },
+  {
+    "startTime": "2024-01-11T05:30:00.000Z",
+    "generation": 6155
+  },
+  {
+    "startTime": "2024-01-11T06:00:00.000Z",
+    "generation": 6036
+  },
+  {
+    "startTime": "2024-01-11T06:30:00.000Z",
+    "generation": 5722
+  },
+  {
+    "startTime": "2024-01-11T07:00:00.000Z",
+    "generation": 5536
+  },
+  {
+    "startTime": "2024-01-11T07:30:00.000Z",
+    "generation": 5279
+  },
+  {
+    "startTime": "2024-01-11T08:00:00.000Z",
+    "generation": 5389
+  },
+  {
+    "startTime": "2024-01-11T08:30:00.000Z",
+    "generation": 5459
+  },
+  {
+    "startTime": "2024-01-11T09:00:00.000Z",
+    "generation": 5450
+  },
+  {
+    "startTime": "2024-01-11T09:30:00.000Z",
+    "generation": 5583
+  },
+  {
+    "startTime": "2024-01-11T10:00:00.000Z",
+    "generation": 5824
+  },
+  {
+    "startTime": "2024-01-11T10:30:00.000Z",
+    "generation": 5858
+  },
+  {
+    "startTime": "2024-01-11T11:00:00.000Z",
+    "generation": 6061
+  },
+  {
+    "startTime": "2024-01-11T11:30:00.000Z",
+    "generation": 6251
+  },
+  {
+    "startTime": "2024-01-11T12:00:00.000Z",
+    "generation": 6457
+  },
+  {
+    "startTime": "2024-01-11T12:30:00.000Z",
+    "generation": 6829
+  },
+  {
+    "startTime": "2024-01-11T13:00:00.000Z",
+    "generation": 7088
+  },
+  {
+    "startTime": "2024-01-11T13:30:00.000Z",
+    "generation": 7224
+  },
+  {
+    "startTime": "2024-01-11T14:00:00.000Z",
+    "generation": 7308
+  },
+  {
+    "startTime": "2024-01-11T14:30:00.000Z",
+    "generation": 7559
+  },
+  {
+    "startTime": "2024-01-11T15:00:00.000Z",
+    "generation": 7604
+  },
+  {
+    "startTime": "2024-01-11T15:30:00.000Z",
+    "generation": 7787
+  },
+  {
+    "startTime": "2024-01-11T16:00:00.000Z",
+    "generation": 7549
+  },
+  {
+    "startTime": "2024-01-11T16:30:00.000Z",
+    "generation": 7418
+  },
+  {
+    "startTime": "2024-01-11T17:00:00.000Z",
+    "generation": 7151
+  },
+  {
+    "startTime": "2024-01-11T17:30:00.000Z",
+    "generation": 7185
+  },
+  {
+    "startTime": "2024-01-11T18:00:00.000Z",
+    "generation": 7094
+  },
+  {
+    "startTime": "2024-01-11T18:30:00.000Z",
+    "generation": 6934
+  },
+  {
+    "startTime": "2024-01-11T19:00:00.000Z",
+    "generation": 6770
+  },
+  {
+    "startTime": "2024-01-11T19:30:00.000Z",
+    "generation": 6551
+  },
+  {
+    "startTime": "2024-01-11T20:00:00.000Z",
+    "generation": 6414
+  },
+  {
+    "startTime": "2024-01-11T20:30:00.000Z",
+    "generation": 6354
+  },
+  {
+    "startTime": "2024-01-11T21:00:00.000Z",
+    "generation": 6324
+  },
+  {
+    "startTime": "2024-01-11T21:30:00.000Z",
+    "generation": 6218
+  },
+  {
+    "startTime": "2024-01-11T22:00:00.000Z",
+    "generation": 6167
+  },
+  {
+    "startTime": "2024-01-11T22:30:00.000Z",
+    "generation": 6057
+  },
+  {
+    "startTime": "2024-01-11T23:00:00.000Z",
+    "generation": 5853
+  },
+  {
+    "startTime": "2024-01-11T23:30:00.000Z",
+    "generation": 5871
+  },
+  {
+    "startTime": "2024-01-12T00:00:00.000Z",
+    "generation": 5886
+  },
+  {
+    "startTime": "2024-01-12T00:30:00.000Z",
+    "generation": 5867
+  },
+  {
+    "startTime": "2024-01-12T01:00:00.000Z",
+    "generation": 6018
+  },
+  {
+    "startTime": "2024-01-12T01:30:00.000Z",
+    "generation": 6355
+  },
+  {
+    "startTime": "2024-01-12T02:00:00.000Z",
+    "generation": 6108
+  },
+  {
+    "startTime": "2024-01-12T02:30:00.000Z",
+    "generation": 5827
+  },
+  {
+    "startTime": "2024-01-12T03:00:00.000Z",
+    "generation": 5292
+  },
+  {
+    "startTime": "2024-01-12T03:30:00.000Z",
+    "generation": 5220
+  },
+  {
+    "startTime": "2024-01-12T04:00:00.000Z",
+    "generation": 4824
+  },
+  {
+    "startTime": "2024-01-12T04:30:00.000Z",
+    "generation": 4783
+  },
+  {
+    "startTime": "2024-01-12T05:00:00.000Z",
+    "generation": 4848
+  },
+  {
+    "startTime": "2024-01-12T05:30:00.000Z",
+    "generation": 4800
+  },
+  {
+    "startTime": "2024-01-12T06:00:00.000Z",
+    "generation": 4510
+  },
+  {
+    "startTime": "2024-01-12T06:30:00.000Z",
+    "generation": 4443
+  },
+  {
+    "startTime": "2024-01-12T07:00:00.000Z",
+    "generation": 4312
+  },
+  {
+    "startTime": "2024-01-12T07:30:00.000Z",
+    "generation": 4039
+  },
+  {
+    "startTime": "2024-01-12T08:00:00.000Z",
+    "generation": 3879
+  },
+  {
+    "startTime": "2024-01-12T08:30:00.000Z",
+    "generation": 3675
+  },
+  {
+    "startTime": "2024-01-12T09:00:00.000Z",
+    "generation": 3499
+  },
+  {
+    "startTime": "2024-01-12T09:30:00.000Z",
+    "generation": 3307
+  },
+  {
+    "startTime": "2024-01-12T10:00:00.000Z",
+    "generation": 3335
+  },
+  {
+    "startTime": "2024-01-12T10:30:00.000Z",
+    "generation": 3202
+  },
+  {
+    "startTime": "2024-01-12T11:00:00.000Z",
+    "generation": 3201
+  },
+  {
+    "startTime": "2024-01-12T11:30:00.000Z",
+    "generation": 3278
+  },
+  {
+    "startTime": "2024-01-12T12:00:00.000Z",
+    "generation": 3318
+  },
+  {
+    "startTime": "2024-01-12T12:30:00.000Z",
+    "generation": 3320
+  },
+  {
+    "startTime": "2024-01-12T13:00:00.000Z",
+    "generation": 3321
+  },
+  {
+    "startTime": "2024-01-12T13:30:00.000Z",
+    "generation": 3509
+  },
+  {
+    "startTime": "2024-01-12T14:00:00.000Z",
+    "generation": 3690
+  },
+  {
+    "startTime": "2024-01-12T14:30:00.000Z",
+    "generation": 3862
+  },
+  {
+    "startTime": "2024-01-12T15:00:00.000Z",
+    "generation": 4220
+  },
+  {
+    "startTime": "2024-01-12T15:30:00.000Z",
+    "generation": 4438
+  },
+  {
+    "startTime": "2024-01-12T16:00:00.000Z",
+    "generation": 4527
+  },
+  {
+    "startTime": "2024-01-12T16:30:00.000Z",
+    "generation": 4514
+  },
+  {
+    "startTime": "2024-01-12T17:00:00.000Z",
+    "generation": 4405
+  },
+  {
+    "startTime": "2024-01-12T17:30:00.000Z",
+    "generation": 4641
+  },
+  {
+    "startTime": "2024-01-12T18:00:00.000Z",
+    "generation": 4639
+  },
+  {
+    "startTime": "2024-01-12T18:30:00.000Z",
+    "generation": 4654
+  },
+  {
+    "startTime": "2024-01-12T19:00:00.000Z",
+    "generation": 4837
+  },
+  {
+    "startTime": "2024-01-12T19:30:00.000Z",
+    "generation": 4946
+  },
+  {
+    "startTime": "2024-01-12T20:00:00.000Z",
+    "generation": 5083
+  },
+  {
+    "startTime": "2024-01-12T20:30:00.000Z",
+    "generation": 5256
+  },
+  {
+    "startTime": "2024-01-12T21:00:00.000Z",
+    "generation": 5486
+  },
+  {
+    "startTime": "2024-01-12T21:30:00.000Z",
+    "generation": 5685
+  },
+  {
+    "startTime": "2024-01-12T22:00:00.000Z",
+    "generation": 5842
+  },
+  {
+    "startTime": "2024-01-12T22:30:00.000Z",
+    "generation": 6017
+  },
+  {
+    "startTime": "2024-01-12T23:00:00.000Z",
+    "generation": 6359
+  },
+  {
+    "startTime": "2024-01-12T23:30:00.000Z",
+    "generation": 6250
+  },
+  {
+    "startTime": "2024-01-13T00:00:00.000Z",
+    "generation": 6319
+  },
+  {
+    "startTime": "2024-01-13T00:30:00.000Z",
+    "generation": 6644
+  },
+  {
+    "startTime": "2024-01-13T01:00:00.000Z",
+    "generation": 6801
+  },
+  {
+    "startTime": "2024-01-13T01:30:00.000Z",
+    "generation": 6993
+  },
+  {
+    "startTime": "2024-01-13T02:00:00.000Z",
+    "generation": 7297
+  },
+  {
+    "startTime": "2024-01-13T02:30:00.000Z",
+    "generation": 7132
+  },
+  {
+    "startTime": "2024-01-13T03:00:00.000Z",
+    "generation": 7695
+  },
+  {
+    "startTime": "2024-01-13T03:30:00.000Z",
+    "generation": 8002
+  },
+  {
+    "startTime": "2024-01-13T04:00:00.000Z",
+    "generation": 8191
+  },
+  {
+    "startTime": "2024-01-13T04:30:00.000Z",
+    "generation": 7774
+  },
+  {
+    "startTime": "2024-01-13T05:00:00.000Z",
+    "generation": 7678
+  },
+  {
+    "startTime": "2024-01-13T05:30:00.000Z",
+    "generation": 7498
+  },
+  {
+    "startTime": "2024-01-13T06:00:00.000Z",
+    "generation": 7446
+  },
+  {
+    "startTime": "2024-01-13T06:30:00.000Z",
+    "generation": 7622
+  },
+  {
+    "startTime": "2024-01-13T07:00:00.000Z",
+    "generation": 7765
+  },
+  {
+    "startTime": "2024-01-13T07:30:00.000Z",
+    "generation": 7841
+  },
+  {
+    "startTime": "2024-01-13T08:00:00.000Z",
+    "generation": 7975
+  },
+  {
+    "startTime": "2024-01-13T08:30:00.000Z",
+    "generation": 7749
+  },
+  {
+    "startTime": "2024-01-13T09:00:00.000Z",
+    "generation": 7662
+  },
+  {
+    "startTime": "2024-01-13T09:30:00.000Z",
+    "generation": 7493
+  },
+  {
+    "startTime": "2024-01-13T10:00:00.000Z",
+    "generation": 7384
+  },
+  {
+    "startTime": "2024-01-13T10:30:00.000Z",
+    "generation": 7190
+  },
+  {
+    "startTime": "2024-01-13T11:00:00.000Z",
+    "generation": 7093
+  },
+  {
+    "startTime": "2024-01-13T11:30:00.000Z",
+    "generation": 6901
+  },
+  {
+    "startTime": "2024-01-13T12:00:00.000Z",
+    "generation": 6834
+  },
+  {
+    "startTime": "2024-01-13T12:30:00.000Z",
+    "generation": 6663
+  },
+  {
+    "startTime": "2024-01-13T13:00:00.000Z",
+    "generation": 6733
+  },
+  {
+    "startTime": "2024-01-13T13:30:00.000Z",
+    "generation": 7017
+  },
+  {
+    "startTime": "2024-01-13T14:00:00.000Z",
+    "generation": 7450
+  },
+  {
+    "startTime": "2024-01-13T14:30:00.000Z",
+    "generation": 7282
+  },
+  {
+    "startTime": "2024-01-13T15:00:00.000Z",
+    "generation": 7003
+  },
+  {
+    "startTime": "2024-01-13T15:30:00.000Z",
+    "generation": 6950
+  },
+  {
+    "startTime": "2024-01-13T16:00:00.000Z",
+    "generation": 6768
+  },
+  {
+    "startTime": "2024-01-13T16:30:00.000Z",
+    "generation": 6834
+  },
+  {
+    "startTime": "2024-01-13T17:00:00.000Z",
+    "generation": 6416
+  },
+  {
+    "startTime": "2024-01-13T17:30:00.000Z",
+    "generation": 6418
+  },
+  {
+    "startTime": "2024-01-13T18:00:00.000Z",
+    "generation": 6446
+  },
+  {
+    "startTime": "2024-01-13T18:30:00.000Z",
+    "generation": 6499
+  },
+  {
+    "startTime": "2024-01-13T19:00:00.000Z",
+    "generation": 6755
+  },
+  {
+    "startTime": "2024-01-13T19:30:00.000Z",
+    "generation": 6763
+  },
+  {
+    "startTime": "2024-01-13T20:00:00.000Z",
+    "generation": 6706
+  },
+  {
+    "startTime": "2024-01-13T20:30:00.000Z",
+    "generation": 6901
+  },
+  {
+    "startTime": "2024-01-13T21:00:00.000Z",
+    "generation": 7009
+  },
+  {
+    "startTime": "2024-01-13T21:30:00.000Z",
+    "generation": 6897
+  },
+  {
+    "startTime": "2024-01-13T22:00:00.000Z",
+    "generation": 6926
+  },
+  {
+    "startTime": "2024-01-13T22:30:00.000Z",
+    "generation": 6531
+  },
+  {
+    "startTime": "2024-01-13T23:00:00.000Z",
+    "generation": 6264
+  },
+  {
+    "startTime": "2024-01-13T23:30:00.000Z",
+    "generation": 5986
+  },
+  {
+    "startTime": "2024-01-14T00:00:00.000Z",
+    "generation": 5873
+  },
+  {
+    "startTime": "2024-01-14T00:30:00.000Z",
+    "generation": 6160
+  },
+  {
+    "startTime": "2024-01-14T01:00:00.000Z",
+    "generation": 6058
+  },
+  {
+    "startTime": "2024-01-14T01:30:00.000Z",
+    "generation": 6093
+  },
+  {
+    "startTime": "2024-01-14T02:00:00.000Z",
+    "generation": 5737
+  },
+  {
+    "startTime": "2024-01-14T02:30:00.000Z",
+    "generation": 5526
+  },
+  {
+    "startTime": "2024-01-14T03:00:00.000Z",
+    "generation": 5596
+  },
+  {
+    "startTime": "2024-01-14T03:30:00.000Z",
+    "generation": 5538
+  },
+  {
+    "startTime": "2024-01-14T04:00:00.000Z",
+    "generation": 5477
+  },
+  {
+    "startTime": "2024-01-14T04:30:00.000Z",
+    "generation": 5367
+  },
+  {
+    "startTime": "2024-01-14T05:00:00.000Z",
+    "generation": 5288
+  },
+  {
+    "startTime": "2024-01-14T05:30:00.000Z",
+    "generation": 5487
+  },
+  {
+    "startTime": "2024-01-14T06:00:00.000Z",
+    "generation": 5862
+  },
+  {
+    "startTime": "2024-01-14T06:30:00.000Z",
+    "generation": 6248
+  },
+  {
+    "startTime": "2024-01-14T07:00:00.000Z",
+    "generation": 6461
+  },
+  {
+    "startTime": "2024-01-14T07:30:00.000Z",
+    "generation": 6759
+  },
+  {
+    "startTime": "2024-01-14T08:00:00.000Z",
+    "generation": 7130
+  },
+  {
+    "startTime": "2024-01-14T08:30:00.000Z",
+    "generation": 8172
+  },
+  {
+    "startTime": "2024-01-14T09:00:00.000Z",
+    "generation": 8614
+  },
+  {
+    "startTime": "2024-01-14T09:30:00.000Z",
+    "generation": 9045
+  },
+  {
+    "startTime": "2024-01-14T10:00:00.000Z",
+    "generation": 9487
+  },
+  {
+    "startTime": "2024-01-14T10:30:00.000Z",
+    "generation": 9699
+  },
+  {
+    "startTime": "2024-01-14T11:00:00.000Z",
+    "generation": 9952
+  },
+  {
+    "startTime": "2024-01-14T11:30:00.000Z",
+    "generation": 10278
+  },
+  {
+    "startTime": "2024-01-14T12:00:00.000Z",
+    "generation": 10051
+  },
+  {
+    "startTime": "2024-01-14T12:30:00.000Z",
+    "generation": 10150
+  },
+  {
+    "startTime": "2024-01-14T13:00:00.000Z",
+    "generation": 10400
+  },
+  {
+    "startTime": "2024-01-14T13:30:00.000Z",
+    "generation": 10769
+  },
+  {
+    "startTime": "2024-01-14T14:00:00.000Z",
+    "generation": 11368
+  },
+  {
+    "startTime": "2024-01-14T14:30:00.000Z",
+    "generation": 11902
+  },
+  {
+    "startTime": "2024-01-14T15:00:00.000Z",
+    "generation": 12175
+  },
+  {
+    "startTime": "2024-01-14T15:30:00.000Z",
+    "generation": 12372
+  },
+  {
+    "startTime": "2024-01-14T16:00:00.000Z",
+    "generation": 12559
+  },
+  {
+    "startTime": "2024-01-14T16:30:00.000Z",
+    "generation": 12247
+  },
+  {
+    "startTime": "2024-01-14T17:00:00.000Z",
+    "generation": 12347
+  },
+  {
+    "startTime": "2024-01-14T17:30:00.000Z",
+    "generation": 12505
+  },
+  {
+    "startTime": "2024-01-14T18:00:00.000Z",
+    "generation": 12424
+  },
+  {
+    "startTime": "2024-01-14T18:30:00.000Z",
+    "generation": 12316
+  },
+  {
+    "startTime": "2024-01-14T19:00:00.000Z",
+    "generation": 12364
+  },
+  {
+    "startTime": "2024-01-14T19:30:00.000Z",
+    "generation": 12398
+  },
+  {
+    "startTime": "2024-01-14T20:00:00.000Z",
+    "generation": 12757
+  },
+  {
+    "startTime": "2024-01-14T20:30:00.000Z",
+    "generation": 12721
+  },
+  {
+    "startTime": "2024-01-14T21:00:00.000Z",
+    "generation": 13213
+  },
+  {
+    "startTime": "2024-01-14T21:30:00.000Z",
+    "generation": 13730
+  },
+  {
+    "startTime": "2024-01-14T22:00:00.000Z",
+    "generation": 13731
+  },
+  {
+    "startTime": "2024-01-14T22:30:00.000Z",
+    "generation": 13557
+  },
+  {
+    "startTime": "2024-01-14T23:00:00.000Z",
+    "generation": 13352
+  },
+  {
+    "startTime": "2024-01-14T23:30:00.000Z",
+    "generation": 13539
+  },
+  {
+    "startTime": "2024-01-15T00:00:00.000Z",
+    "generation": 13826
+  },
+  {
+    "startTime": "2024-01-15T00:30:00.000Z",
+    "generation": 13991
+  },
+  {
+    "startTime": "2024-01-15T01:00:00.000Z",
+    "generation": 14343
+  },
+  {
+    "startTime": "2024-01-15T01:30:00.000Z",
+    "generation": 14482
+  },
+  {
+    "startTime": "2024-01-15T02:00:00.000Z",
+    "generation": 14431
+  },
+  {
+    "startTime": "2024-01-15T02:30:00.000Z",
+    "generation": 14426
+  },
+  {
+    "startTime": "2024-01-15T03:00:00.000Z",
+    "generation": 14534
+  },
+  {
+    "startTime": "2024-01-15T03:30:00.000Z",
+    "generation": 14706
+  },
+  {
+    "startTime": "2024-01-15T04:00:00.000Z",
+    "generation": 14840
+  },
+  {
+    "startTime": "2024-01-15T04:30:00.000Z",
+    "generation": 14933
+  },
+  {
+    "startTime": "2024-01-15T05:00:00.000Z",
+    "generation": 15001
+  },
+  {
+    "startTime": "2024-01-15T05:30:00.000Z",
+    "generation": 15070
+  },
+  {
+    "startTime": "2024-01-15T06:00:00.000Z",
+    "generation": 15022
+  },
+  {
+    "startTime": "2024-01-15T06:30:00.000Z",
+    "generation": 14830
+  },
+  {
+    "startTime": "2024-01-15T07:00:00.000Z",
+    "generation": 14963
+  },
+  {
+    "startTime": "2024-01-15T07:30:00.000Z",
+    "generation": 14855
+  },
+  {
+    "startTime": "2024-01-15T08:00:00.000Z",
+    "generation": 14492
+  },
+  {
+    "startTime": "2024-01-15T08:30:00.000Z",
+    "generation": 14264
+  },
+  {
+    "startTime": "2024-01-15T09:00:00.000Z",
+    "generation": 14233
+  },
+  {
+    "startTime": "2024-01-15T09:30:00.000Z",
+    "generation": 14149
+  },
+  {
+    "startTime": "2024-01-15T10:00:00.000Z",
+    "generation": 14315
+  },
+  {
+    "startTime": "2024-01-15T10:30:00.000Z",
+    "generation": 14149
+  },
+  {
+    "startTime": "2024-01-15T11:00:00.000Z",
+    "generation": 13835
+  },
+  {
+    "startTime": "2024-01-15T11:30:00.000Z",
+    "generation": 13709
+  },
+  {
+    "startTime": "2024-01-15T12:00:00.000Z",
+    "generation": 13529
+  },
+  {
+    "startTime": "2024-01-15T12:30:00.000Z",
+    "generation": 13614
+  },
+  {
+    "startTime": "2024-01-15T13:00:00.000Z",
+    "generation": 13859
+  },
+  {
+    "startTime": "2024-01-15T13:30:00.000Z",
+    "generation": 13948
+  },
+  {
+    "startTime": "2024-01-15T14:00:00.000Z",
+    "generation": 13810
+  },
+  {
+    "startTime": "2024-01-15T14:30:00.000Z",
+    "generation": 13770
+  },
+  {
+    "startTime": "2024-01-15T15:00:00.000Z",
+    "generation": 13547
+  },
+  {
+    "startTime": "2024-01-15T15:30:00.000Z",
+    "generation": 13411
+  },
+  {
+    "startTime": "2024-01-15T16:00:00.000Z",
+    "generation": 12939
+  },
+  {
+    "startTime": "2024-01-15T16:30:00.000Z",
+    "generation": 12747
+  },
+  {
+    "startTime": "2024-01-15T17:00:00.000Z",
+    "generation": 12466
+  },
+  {
+    "startTime": "2024-01-15T17:30:00.000Z",
+    "generation": 12140
+  },
+  {
+    "startTime": "2024-01-15T18:00:00.000Z",
+    "generation": 11775
+  },
+  {
+    "startTime": "2024-01-15T18:30:00.000Z",
+    "generation": 11448
+  },
+  {
+    "startTime": "2024-01-15T19:00:00.000Z",
+    "generation": 10834
+  },
+  {
+    "startTime": "2024-01-15T19:30:00.000Z",
+    "generation": 10449
+  },
+  {
+    "startTime": "2024-01-15T20:00:00.000Z",
+    "generation": 10046
+  },
+  {
+    "startTime": "2024-01-15T20:30:00.000Z",
+    "generation": 9952
+  },
+  {
+    "startTime": "2024-01-15T21:00:00.000Z",
+    "generation": 9569
+  },
+  {
+    "startTime": "2024-01-15T21:30:00.000Z",
+    "generation": 9174
+  },
+  {
+    "startTime": "2024-01-15T22:00:00.000Z",
+    "generation": 8995
+  },
+  {
+    "startTime": "2024-01-15T22:30:00.000Z",
+    "generation": 8472
+  },
+  {
+    "startTime": "2024-01-15T23:00:00.000Z",
+    "generation": 8022
+  },
+  {
+    "startTime": "2024-01-15T23:30:00.000Z",
+    "generation": 8095
+  },
+  {
+    "startTime": "2024-01-16T00:00:00.000Z",
+    "generation": 7892
+  },
+  {
+    "startTime": "2024-01-16T00:30:00.000Z",
+    "generation": 7692
+  },
+  {
+    "startTime": "2024-01-16T01:00:00.000Z",
+    "generation": 7270
+  },
+  {
+    "startTime": "2024-01-16T01:30:00.000Z",
+    "generation": 6954
+  },
+  {
+    "startTime": "2024-01-16T02:00:00.000Z",
+    "generation": 6228
+  },
+  {
+    "startTime": "2024-01-16T02:30:00.000Z",
+    "generation": 5806
+  },
+  {
+    "startTime": "2024-01-16T03:00:00.000Z",
+    "generation": 5814
+  },
+  {
+    "startTime": "2024-01-16T03:30:00.000Z",
+    "generation": 6035
+  },
+  {
+    "startTime": "2024-01-16T04:00:00.000Z",
+    "generation": 5985
+  },
+  {
+    "startTime": "2024-01-16T04:30:00.000Z",
+    "generation": 6136
+  },
+  {
+    "startTime": "2024-01-16T05:00:00.000Z",
+    "generation": 6396
+  },
+  {
+    "startTime": "2024-01-16T05:30:00.000Z",
+    "generation": 6833
+  },
+  {
+    "startTime": "2024-01-16T06:00:00.000Z",
+    "generation": 7111
+  },
+  {
+    "startTime": "2024-01-16T06:30:00.000Z",
+    "generation": 7196
+  },
+  {
+    "startTime": "2024-01-16T07:00:00.000Z",
+    "generation": 7343
+  },
+  {
+    "startTime": "2024-01-16T07:30:00.000Z",
+    "generation": 7266
+  },
+  {
+    "startTime": "2024-01-16T08:00:00.000Z",
+    "generation": 7387
+  },
+  {
+    "startTime": "2024-01-16T08:30:00.000Z",
+    "generation": 7590
+  },
+  {
+    "startTime": "2024-01-16T09:00:00.000Z",
+    "generation": 7756
+  },
+  {
+    "startTime": "2024-01-16T09:30:00.000Z",
+    "generation": 7674
+  },
+  {
+    "startTime": "2024-01-16T10:00:00.000Z",
+    "generation": 7412
+  },
+  {
+    "startTime": "2024-01-16T10:30:00.000Z",
+    "generation": 7345
+  },
+  {
+    "startTime": "2024-01-16T11:00:00.000Z",
+    "generation": 7463
+  },
+  {
+    "startTime": "2024-01-16T11:30:00.000Z",
+    "generation": 7449
+  },
+  {
+    "startTime": "2024-01-16T12:00:00.000Z",
+    "generation": 7607
+  },
+  {
+    "startTime": "2024-01-16T12:30:00.000Z",
+    "generation": 8122
+  },
+  {
+    "startTime": "2024-01-16T13:00:00.000Z",
+    "generation": 8206
+  },
+  {
+    "startTime": "2024-01-16T13:30:00.000Z",
+    "generation": 8607
+  },
+  {
+    "startTime": "2024-01-16T14:00:00.000Z",
+    "generation": 9047
+  },
+  {
+    "startTime": "2024-01-16T14:30:00.000Z",
+    "generation": 9180
+  },
+  {
+    "startTime": "2024-01-16T15:00:00.000Z",
+    "generation": 9603
+  },
+  {
+    "startTime": "2024-01-16T15:30:00.000Z",
+    "generation": 10811
+  },
+  {
+    "startTime": "2024-01-16T16:00:00.000Z",
+    "generation": 11451
+  },
+  {
+    "startTime": "2024-01-16T16:30:00.000Z",
+    "generation": 12264
+  },
+  {
+    "startTime": "2024-01-16T17:00:00.000Z",
+    "generation": 12975
+  },
+  {
+    "startTime": "2024-01-16T17:30:00.000Z",
+    "generation": 12989
+  },
+  {
+    "startTime": "2024-01-16T18:00:00.000Z",
+    "generation": 12865
+  },
+  {
+    "startTime": "2024-01-16T18:30:00.000Z",
+    "generation": 13113
+  },
+  {
+    "startTime": "2024-01-16T19:00:00.000Z",
+    "generation": 13083
+  },
+  {
+    "startTime": "2024-01-16T19:30:00.000Z",
+    "generation": 13106
+  },
+  {
+    "startTime": "2024-01-16T20:00:00.000Z",
+    "generation": 12888
+  },
+  {
+    "startTime": "2024-01-16T20:30:00.000Z",
+    "generation": 12532
+  },
+  {
+    "startTime": "2024-01-16T21:00:00.000Z",
+    "generation": 12042
+  },
+  {
+    "startTime": "2024-01-16T21:30:00.000Z",
+    "generation": 11991
+  },
+  {
+    "startTime": "2024-01-16T22:00:00.000Z",
+    "generation": 11610
+  },
+  {
+    "startTime": "2024-01-16T22:30:00.000Z",
+    "generation": 11742
+  },
+  {
+    "startTime": "2024-01-16T23:00:00.000Z",
+    "generation": 11622
+  },
+  {
+    "startTime": "2024-01-16T23:30:00.000Z",
+    "generation": 11388
+  },
+  {
+    "startTime": "2024-01-17T00:00:00.000Z",
+    "generation": 10883
+  },
+  {
+    "startTime": "2024-01-17T00:30:00.000Z",
+    "generation": 10311
+  },
+  {
+    "startTime": "2024-01-17T01:00:00.000Z",
+    "generation": 9675
+  },
+  {
+    "startTime": "2024-01-17T01:30:00.000Z",
+    "generation": 9320
+  },
+  {
+    "startTime": "2024-01-17T02:00:00.000Z",
+    "generation": 9013
+  },
+  {
+    "startTime": "2024-01-17T02:30:00.000Z",
+    "generation": 8423
+  },
+  {
+    "startTime": "2024-01-17T03:00:00.000Z",
+    "generation": 7573
+  },
+  {
+    "startTime": "2024-01-17T03:30:00.000Z",
+    "generation": 6710
+  },
+  {
+    "startTime": "2024-01-17T04:00:00.000Z",
+    "generation": 6030
+  },
+  {
+    "startTime": "2024-01-17T04:30:00.000Z",
+    "generation": 5342
+  },
+  {
+    "startTime": "2024-01-17T05:00:00.000Z",
+    "generation": 4695
+  },
+  {
+    "startTime": "2024-01-17T05:30:00.000Z",
+    "generation": 4464
+  },
+  {
+    "startTime": "2024-01-17T06:00:00.000Z",
+    "generation": 4682
+  },
+  {
+    "startTime": "2024-01-17T06:30:00.000Z",
+    "generation": 4880
+  },
+  {
+    "startTime": "2024-01-17T07:00:00.000Z",
+    "generation": 4822
+  },
+  {
+    "startTime": "2024-01-17T07:30:00.000Z",
+    "generation": 4252
+  },
+  {
+    "startTime": "2024-01-17T08:00:00.000Z",
+    "generation": 3988
+  },
+  {
+    "startTime": "2024-01-17T08:30:00.000Z",
+    "generation": 4340
+  },
+  {
+    "startTime": "2024-01-17T09:00:00.000Z",
+    "generation": 4434
+  },
+  {
+    "startTime": "2024-01-17T09:30:00.000Z",
+    "generation": 4345
+  },
+  {
+    "startTime": "2024-01-17T10:00:00.000Z",
+    "generation": 3902
+  },
+  {
+    "startTime": "2024-01-17T10:30:00.000Z",
+    "generation": 3670
+  },
+  {
+    "startTime": "2024-01-17T11:00:00.000Z",
+    "generation": 3455
+  },
+  {
+    "startTime": "2024-01-17T11:30:00.000Z",
+    "generation": 3179
+  },
+  {
+    "startTime": "2024-01-17T12:00:00.000Z",
+    "generation": 3238
+  },
+  {
+    "startTime": "2024-01-17T12:30:00.000Z",
+    "generation": 3501
+  },
+  {
+    "startTime": "2024-01-17T13:00:00.000Z",
+    "generation": 3785
+  },
+  {
+    "startTime": "2024-01-17T13:30:00.000Z",
+    "generation": 4254
+  },
+  {
+    "startTime": "2024-01-17T14:00:00.000Z",
+    "generation": 4774
+  },
+  {
+    "startTime": "2024-01-17T14:30:00.000Z",
+    "generation": 5335
+  },
+  {
+    "startTime": "2024-01-17T15:00:00.000Z",
+    "generation": 5291
+  },
+  {
+    "startTime": "2024-01-17T15:30:00.000Z",
+    "generation": 5163
+  },
+  {
+    "startTime": "2024-01-17T16:00:00.000Z",
+    "generation": 6190
+  },
+  {
+    "startTime": "2024-01-17T16:30:00.000Z",
+    "generation": 6709
+  },
+  {
+    "startTime": "2024-01-17T17:00:00.000Z",
+    "generation": 6631
+  },
+  {
+    "startTime": "2024-01-17T17:30:00.000Z",
+    "generation": 6928
+  },
+  {
+    "startTime": "2024-01-17T18:00:00.000Z",
+    "generation": 7004
+  },
+  {
+    "startTime": "2024-01-17T18:30:00.000Z",
+    "generation": 7410
+  },
+  {
+    "startTime": "2024-01-17T19:00:00.000Z",
+    "generation": 8038
+  },
+  {
+    "startTime": "2024-01-17T19:30:00.000Z",
+    "generation": 8125
+  },
+  {
+    "startTime": "2024-01-17T20:00:00.000Z",
+    "generation": 7850
+  },
+  {
+    "startTime": "2024-01-17T20:30:00.000Z",
+    "generation": 7925
+  },
+  {
+    "startTime": "2024-01-17T21:00:00.000Z",
+    "generation": 7426
+  },
+  {
+    "startTime": "2024-01-17T21:30:00.000Z",
+    "generation": 6999
+  },
+  {
+    "startTime": "2024-01-17T22:00:00.000Z",
+    "generation": 6788
+  },
+  {
+    "startTime": "2024-01-17T22:30:00.000Z",
+    "generation": 6796
+  },
+  {
+    "startTime": "2024-01-17T23:00:00.000Z",
+    "generation": 6841
+  },
+  {
+    "startTime": "2024-01-17T23:30:00.000Z",
+    "generation": 6763
+  },
+  {
+    "startTime": "2024-01-18T00:00:00.000Z",
+    "generation": 6431
+  },
+  {
+    "startTime": "2024-01-18T00:30:00.000Z",
+    "generation": 6939
+  },
+  {
+    "startTime": "2024-01-18T01:00:00.000Z",
+    "generation": 7447
+  },
+  {
+    "startTime": "2024-01-18T01:30:00.000Z",
+    "generation": 8491
+  },
+  {
+    "startTime": "2024-01-18T02:00:00.000Z",
+    "generation": 8596
+  },
+  {
+    "startTime": "2024-01-18T02:30:00.000Z",
+    "generation": 8096
+  },
+  {
+    "startTime": "2024-01-18T03:00:00.000Z",
+    "generation": 7493
+  },
+  {
+    "startTime": "2024-01-18T03:30:00.000Z",
+    "generation": 7360
+  },
+  {
+    "startTime": "2024-01-18T04:00:00.000Z",
+    "generation": 6878
+  },
+  {
+    "startTime": "2024-01-18T04:30:00.000Z",
+    "generation": 6044
+  },
+  {
+    "startTime": "2024-01-18T05:00:00.000Z",
+    "generation": 6362
+  },
+  {
+    "startTime": "2024-01-18T05:30:00.000Z",
+    "generation": 6862
+  },
+  {
+    "startTime": "2024-01-18T06:00:00.000Z",
+    "generation": 6990
+  },
+  {
+    "startTime": "2024-01-18T06:30:00.000Z",
+    "generation": 7283
+  },
+  {
+    "startTime": "2024-01-18T07:00:00.000Z",
+    "generation": 6833
+  },
+  {
+    "startTime": "2024-01-18T07:30:00.000Z",
+    "generation": 6751
+  },
+  {
+    "startTime": "2024-01-18T08:00:00.000Z",
+    "generation": 6392
+  },
+  {
+    "startTime": "2024-01-18T08:30:00.000Z",
+    "generation": 5897
+  },
+  {
+    "startTime": "2024-01-18T09:00:00.000Z",
+    "generation": 5659
+  },
+  {
+    "startTime": "2024-01-18T09:30:00.000Z",
+    "generation": 6231
+  },
+  {
+    "startTime": "2024-01-18T10:00:00.000Z",
+    "generation": 6206
+  },
+  {
+    "startTime": "2024-01-18T10:30:00.000Z",
+    "generation": 6333
+  },
+  {
+    "startTime": "2024-01-18T11:00:00.000Z",
+    "generation": 6688
+  },
+  {
+    "startTime": "2024-01-18T11:30:00.000Z",
+    "generation": 7308
+  },
+  {
+    "startTime": "2024-01-18T12:00:00.000Z",
+    "generation": 7551
+  },
+  {
+    "startTime": "2024-01-18T12:30:00.000Z",
+    "generation": 7180
+  },
+  {
+    "startTime": "2024-01-18T13:00:00.000Z",
+    "generation": 7082
+  },
+  {
+    "startTime": "2024-01-18T13:30:00.000Z",
+    "generation": 7754
+  },
+  {
+    "startTime": "2024-01-18T14:00:00.000Z",
+    "generation": 8365
+  },
+  {
+    "startTime": "2024-01-18T14:30:00.000Z",
+    "generation": 9019
+  },
+  {
+    "startTime": "2024-01-18T15:00:00.000Z",
+    "generation": 9515
+  },
+  {
+    "startTime": "2024-01-18T15:30:00.000Z",
+    "generation": 10164
+  },
+  {
+    "startTime": "2024-01-18T16:00:00.000Z",
+    "generation": 10356
+  },
+  {
+    "startTime": "2024-01-18T16:30:00.000Z",
+    "generation": 10765
+  },
+  {
+    "startTime": "2024-01-18T17:00:00.000Z",
+    "generation": 11322
+  },
+  {
+    "startTime": "2024-01-18T17:30:00.000Z",
+    "generation": 11727
+  },
+  {
+    "startTime": "2024-01-18T18:00:00.000Z",
+    "generation": 12362
+  },
+  {
+    "startTime": "2024-01-18T18:30:00.000Z",
+    "generation": 12443
+  },
+  {
+    "startTime": "2024-01-18T19:00:00.000Z",
+    "generation": 11678
+  },
+  {
+    "startTime": "2024-01-18T19:30:00.000Z",
+    "generation": 11307
+  },
+  {
+    "startTime": "2024-01-18T20:00:00.000Z",
+    "generation": 11339
+  },
+  {
+    "startTime": "2024-01-18T20:30:00.000Z",
+    "generation": 11344
+  },
+  {
+    "startTime": "2024-01-18T21:00:00.000Z",
+    "generation": 11629
+  },
+  {
+    "startTime": "2024-01-18T21:30:00.000Z",
+    "generation": 11648
+  },
+  {
+    "startTime": "2024-01-18T22:00:00.000Z",
+    "generation": 11561
+  },
+  {
+    "startTime": "2024-01-18T22:30:00.000Z",
+    "generation": 11843
+  },
+  {
+    "startTime": "2024-01-18T23:00:00.000Z",
+    "generation": 11716
+  },
+  {
+    "startTime": "2024-01-18T23:30:00.000Z",
+    "generation": 11747
+  },
+  {
+    "startTime": "2024-01-19T00:00:00.000Z",
+    "generation": 11417
+  },
+  {
+    "startTime": "2024-01-19T00:30:00.000Z",
+    "generation": 11180
+  },
+  {
+    "startTime": "2024-01-19T01:00:00.000Z",
+    "generation": 11590
+  },
+  {
+    "startTime": "2024-01-19T01:30:00.000Z",
+    "generation": 11553
+  },
+  {
+    "startTime": "2024-01-19T02:00:00.000Z",
+    "generation": 11509
+  },
+  {
+    "startTime": "2024-01-19T02:30:00.000Z",
+    "generation": 11728
+  },
+  {
+    "startTime": "2024-01-19T03:00:00.000Z",
+    "generation": 11687
+  },
+  {
+    "startTime": "2024-01-19T03:30:00.000Z",
+    "generation": 11751
+  },
+  {
+    "startTime": "2024-01-19T04:00:00.000Z",
+    "generation": 11337
+  },
+  {
+    "startTime": "2024-01-19T04:30:00.000Z",
+    "generation": 11244
+  },
+  {
+    "startTime": "2024-01-19T05:00:00.000Z",
+    "generation": 11423
+  },
+  {
+    "startTime": "2024-01-19T05:30:00.000Z",
+    "generation": 11661
+  },
+  {
+    "startTime": "2024-01-19T06:00:00.000Z",
+    "generation": 11717
+  },
+  {
+    "startTime": "2024-01-19T06:30:00.000Z",
+    "generation": 11405
+  },
+  {
+    "startTime": "2024-01-19T07:00:00.000Z",
+    "generation": 11668
+  },
+  {
+    "startTime": "2024-01-19T07:30:00.000Z",
+    "generation": 12110
+  },
+  {
+    "startTime": "2024-01-19T08:00:00.000Z",
+    "generation": 12606
+  },
+  {
+    "startTime": "2024-01-19T08:30:00.000Z",
+    "generation": 12537
+  },
+  {
+    "startTime": "2024-01-19T09:00:00.000Z",
+    "generation": 12592
+  },
+  {
+    "startTime": "2024-01-19T09:30:00.000Z",
+    "generation": 12724
+  },
+  {
+    "startTime": "2024-01-19T10:00:00.000Z",
+    "generation": 12700
+  },
+  {
+    "startTime": "2024-01-19T10:30:00.000Z",
+    "generation": 13097
+  },
+  {
+    "startTime": "2024-01-19T11:00:00.000Z",
+    "generation": 13342
+  },
+  {
+    "startTime": "2024-01-19T11:30:00.000Z",
+    "generation": 13641
+  },
+  {
+    "startTime": "2024-01-19T12:00:00.000Z",
+    "generation": 13807
+  },
+  {
+    "startTime": "2024-01-19T12:30:00.000Z",
+    "generation": 13958
+  },
+  {
+    "startTime": "2024-01-19T13:00:00.000Z",
+    "generation": 11807
+  },
+  {
+    "startTime": "2024-01-19T13:30:00.000Z",
+    "generation": 14349
+  },
+  {
+    "startTime": "2024-01-19T14:00:00.000Z",
+    "generation": 14160
+  },
+  {
+    "startTime": "2024-01-19T14:30:00.000Z",
+    "generation": 13847
+  },
+  {
+    "startTime": "2024-01-19T15:00:00.000Z",
+    "generation": 13844
+  },
+  {
+    "startTime": "2024-01-19T15:30:00.000Z",
+    "generation": 13901
+  },
+  {
+    "startTime": "2024-01-19T16:00:00.000Z",
+    "generation": 13906
+  },
+  {
+    "startTime": "2024-01-19T16:30:00.000Z",
+    "generation": 13697
+  },
+  {
+    "startTime": "2024-01-19T17:00:00.000Z",
+    "generation": 13613
+  },
+  {
+    "startTime": "2024-01-19T17:30:00.000Z",
+    "generation": 13892
+  },
+  {
+    "startTime": "2024-01-19T18:00:00.000Z",
+    "generation": 14025
+  },
+  {
+    "startTime": "2024-01-19T18:30:00.000Z",
+    "generation": 14184
+  },
+  {
+    "startTime": "2024-01-19T19:00:00.000Z",
+    "generation": 14208
+  },
+  {
+    "startTime": "2024-01-19T19:30:00.000Z",
+    "generation": 14358
+  },
+  {
+    "startTime": "2024-01-19T20:00:00.000Z",
+    "generation": 14634
+  },
+  {
+    "startTime": "2024-01-19T20:30:00.000Z",
+    "generation": 14687
+  },
+  {
+    "startTime": "2024-01-19T21:00:00.000Z",
+    "generation": 13992
+  },
+  {
+    "startTime": "2024-01-19T21:30:00.000Z",
+    "generation": 13871
+  },
+  {
+    "startTime": "2024-01-19T22:00:00.000Z",
+    "generation": 13956
+  },
+  {
+    "startTime": "2024-01-19T22:30:00.000Z",
+    "generation": 14014
+  },
+  {
+    "startTime": "2024-01-19T23:00:00.000Z",
+    "generation": 14025
+  },
+  {
+    "startTime": "2024-01-19T23:30:00.000Z",
+    "generation": 13845
+  },
+  {
+    "startTime": "2024-01-20T00:00:00.000Z",
+    "generation": 13736
+  },
+  {
+    "startTime": "2024-01-20T00:30:00.000Z",
+    "generation": 13852
+  },
+  {
+    "startTime": "2024-01-20T01:00:00.000Z",
+    "generation": 13650
+  },
+  {
+    "startTime": "2024-01-20T01:30:00.000Z",
+    "generation": 13788
+  },
+  {
+    "startTime": "2024-01-20T02:00:00.000Z",
+    "generation": 14124
+  },
+  {
+    "startTime": "2024-01-20T02:30:00.000Z",
+    "generation": 14310
+  },
+  {
+    "startTime": "2024-01-20T03:00:00.000Z",
+    "generation": 14459
+  },
+  {
+    "startTime": "2024-01-20T03:30:00.000Z",
+    "generation": 14755
+  },
+  {
+    "startTime": "2024-01-20T04:00:00.000Z",
+    "generation": 14938
+  },
+  {
+    "startTime": "2024-01-20T04:30:00.000Z",
+    "generation": 15096
+  },
+  {
+    "startTime": "2024-01-20T05:00:00.000Z",
+    "generation": 15267
+  },
+  {
+    "startTime": "2024-01-20T05:30:00.000Z",
+    "generation": 15062
+  },
+  {
+    "startTime": "2024-01-20T06:00:00.000Z",
+    "generation": 14918
+  },
+  {
+    "startTime": "2024-01-20T06:30:00.000Z",
+    "generation": 14860
+  },
+  {
+    "startTime": "2024-01-20T07:00:00.000Z",
+    "generation": 14954
+  },
+  {
+    "startTime": "2024-01-20T07:30:00.000Z",
+    "generation": 15094
+  },
+  {
+    "startTime": "2024-01-20T08:00:00.000Z",
+    "generation": 15281
+  },
+  {
+    "startTime": "2024-01-20T08:30:00.000Z",
+    "generation": 15331
+  },
+  {
+    "startTime": "2024-01-20T09:00:00.000Z",
+    "generation": 15269
+  },
+  {
+    "startTime": "2024-01-20T09:30:00.000Z",
+    "generation": 15181
+  },
+  {
+    "startTime": "2024-01-20T10:00:00.000Z",
+    "generation": 15432
+  },
+  {
+    "startTime": "2024-01-20T10:30:00.000Z",
+    "generation": 15707
+  },
+  {
+    "startTime": "2024-01-20T11:00:00.000Z",
+    "generation": 15970
+  },
+  {
+    "startTime": "2024-01-20T11:30:00.000Z",
+    "generation": 16245
+  },
+  {
+    "startTime": "2024-01-20T12:00:00.000Z",
+    "generation": 16185
+  },
+  {
+    "startTime": "2024-01-20T12:30:00.000Z",
+    "generation": 16283
+  },
+  {
+    "startTime": "2024-01-20T13:00:00.000Z",
+    "generation": 16129
+  },
+  {
+    "startTime": "2024-01-20T13:30:00.000Z",
+    "generation": 16137
+  },
+  {
+    "startTime": "2024-01-20T14:00:00.000Z",
+    "generation": 16279
+  },
+  {
+    "startTime": "2024-01-20T14:30:00.000Z",
+    "generation": 16253
+  },
+  {
+    "startTime": "2024-01-20T15:00:00.000Z",
+    "generation": 16261
+  },
+  {
+    "startTime": "2024-01-20T15:30:00.000Z",
+    "generation": 16034
+  },
+  {
+    "startTime": "2024-01-20T16:00:00.000Z",
+    "generation": 16240
+  },
+  {
+    "startTime": "2024-01-20T16:30:00.000Z",
+    "generation": 16244
+  },
+  {
+    "startTime": "2024-01-20T17:00:00.000Z",
+    "generation": 16246
+  },
+  {
+    "startTime": "2024-01-20T17:30:00.000Z",
+    "generation": 16185
+  },
+  {
+    "startTime": "2024-01-20T18:00:00.000Z",
+    "generation": 16073
+  },
+  {
+    "startTime": "2024-01-20T18:30:00.000Z",
+    "generation": 15971
+  },
+  {
+    "startTime": "2024-01-20T19:00:00.000Z",
+    "generation": 15985
+  },
+  {
+    "startTime": "2024-01-20T19:30:00.000Z",
+    "generation": 15950
+  },
+  {
+    "startTime": "2024-01-20T20:00:00.000Z",
+    "generation": 16260
+  },
+  {
+    "startTime": "2024-01-20T20:30:00.000Z",
+    "generation": 16662
+  },
+  {
+    "startTime": "2024-01-20T21:00:00.000Z",
+    "generation": 16434
+  },
+  {
+    "startTime": "2024-01-20T21:30:00.000Z",
+    "generation": 16143
+  },
+  {
+    "startTime": "2024-01-20T22:00:00.000Z",
+    "generation": 16118
+  },
+  {
+    "startTime": "2024-01-20T22:30:00.000Z",
+    "generation": 16102
+  },
+  {
+    "startTime": "2024-01-20T23:00:00.000Z",
+    "generation": 16072
+  },
+  {
+    "startTime": "2024-01-20T23:30:00.000Z",
+    "generation": 15959
+  },
+  {
+    "startTime": "2024-01-21T00:00:00.000Z",
+    "generation": 15884
+  },
+  {
+    "startTime": "2024-01-21T00:30:00.000Z",
+    "generation": 15535
+  },
+  {
+    "startTime": "2024-01-21T01:00:00.000Z",
+    "generation": 15248
+  },
+  {
+    "startTime": "2024-01-21T01:30:00.000Z",
+    "generation": 15132
+  },
+  {
+    "startTime": "2024-01-21T02:00:00.000Z",
+    "generation": 14809
+  },
+  {
+    "startTime": "2024-01-21T02:30:00.000Z",
+    "generation": 14637
+  },
+  {
+    "startTime": "2024-01-21T03:00:00.000Z",
+    "generation": 14474
+  },
+  {
+    "startTime": "2024-01-21T03:30:00.000Z",
+    "generation": 14028
+  },
+  {
+    "startTime": "2024-01-21T04:00:00.000Z",
+    "generation": 13775
+  },
+  {
+    "startTime": "2024-01-21T04:30:00.000Z",
+    "generation": 14036
+  },
+  {
+    "startTime": "2024-01-21T05:00:00.000Z",
+    "generation": 14540
+  },
+  {
+    "startTime": "2024-01-21T05:30:00.000Z",
+    "generation": 14247
+  },
+  {
+    "startTime": "2024-01-21T06:00:00.000Z",
+    "generation": 13505
+  },
+  {
+    "startTime": "2024-01-21T06:30:00.000Z",
+    "generation": 14168
+  },
+  {
+    "startTime": "2024-01-21T07:00:00.000Z",
+    "generation": 14359
+  },
+  {
+    "startTime": "2024-01-21T07:30:00.000Z",
+    "generation": 14343
+  },
+  {
+    "startTime": "2024-01-21T08:00:00.000Z",
+    "generation": 14072
+  },
+  {
+    "startTime": "2024-01-21T08:30:00.000Z",
+    "generation": 14152
+  },
+  {
+    "startTime": "2024-01-21T09:00:00.000Z",
+    "generation": 14474
+  },
+  {
+    "startTime": "2024-01-21T09:30:00.000Z",
+    "generation": 15158
+  },
+  {
+    "startTime": "2024-01-21T10:00:00.000Z",
+    "generation": 15221
+  },
+  {
+    "startTime": "2024-01-21T10:30:00.000Z",
+    "generation": 14975
+  },
+  {
+    "startTime": "2024-01-21T11:00:00.000Z",
+    "generation": 15127
+  },
+  {
+    "startTime": "2024-01-21T11:30:00.000Z",
+    "generation": 15761
+  },
+  {
+    "startTime": "2024-01-21T12:00:00.000Z",
+    "generation": 15746
+  },
+  {
+    "startTime": "2024-01-21T12:30:00.000Z",
+    "generation": 15338
+  },
+  {
+    "startTime": "2024-01-21T13:00:00.000Z",
+    "generation": 14874
+  },
+  {
+    "startTime": "2024-01-21T13:30:00.000Z",
+    "generation": 14969
+  },
+  {
+    "startTime": "2024-01-21T14:00:00.000Z",
+    "generation": 14866
+  },
+  {
+    "startTime": "2024-01-21T14:30:00.000Z",
+    "generation": 15018
+  },
+  {
+    "startTime": "2024-01-21T15:00:00.000Z",
+    "generation": 14802
+  },
+  {
+    "startTime": "2024-01-21T15:30:00.000Z",
+    "generation": 14627
+  },
+  {
+    "startTime": "2024-01-21T16:00:00.000Z",
+    "generation": 14731
+  },
+  {
+    "startTime": "2024-01-21T16:30:00.000Z",
+    "generation": 14708
+  },
+  {
+    "startTime": "2024-01-21T17:00:00.000Z",
+    "generation": 14630
+  },
+  {
+    "startTime": "2024-01-21T17:30:00.000Z",
+    "generation": 14190
+  },
+  {
+    "startTime": "2024-01-21T18:00:00.000Z",
+    "generation": 13740
+  },
+  {
+    "startTime": "2024-01-21T18:30:00.000Z",
+    "generation": 13028
+  },
+  {
+    "startTime": "2024-01-21T19:00:00.000Z",
+    "generation": 12901
+  },
+  {
+    "startTime": "2024-01-21T19:30:00.000Z",
+    "generation": 11789
+  },
+  {
+    "startTime": "2024-01-21T20:00:00.000Z",
+    "generation": 11299
+  },
+  {
+    "startTime": "2024-01-21T20:30:00.000Z",
+    "generation": 10202
+  },
+  {
+    "startTime": "2024-01-21T21:00:00.000Z",
+    "generation": 9112
+  },
+  {
+    "startTime": "2024-01-21T21:30:00.000Z",
+    "generation": 8197
+  },
+  {
+    "startTime": "2024-01-21T22:00:00.000Z",
+    "generation": 8108
+  },
+  {
+    "startTime": "2024-01-21T22:30:00.000Z",
+    "generation": 8182
+  },
+  {
+    "startTime": "2024-01-21T23:00:00.000Z",
+    "generation": 8493
+  },
+  {
+    "startTime": "2024-01-21T23:30:00.000Z",
+    "generation": 8503
+  },
+  {
+    "startTime": "2024-01-22T00:00:00.000Z",
+    "generation": 8662
+  },
+  {
+    "startTime": "2024-01-22T00:30:00.000Z",
+    "generation": 8485
+  },
+  {
+    "startTime": "2024-01-22T01:00:00.000Z",
+    "generation": 8121
+  },
+  {
+    "startTime": "2024-01-22T01:30:00.000Z",
+    "generation": 8344
+  },
+  {
+    "startTime": "2024-01-22T02:00:00.000Z",
+    "generation": 8638
+  },
+  {
+    "startTime": "2024-01-22T02:30:00.000Z",
+    "generation": 9403
+  },
+  {
+    "startTime": "2024-01-22T03:00:00.000Z",
+    "generation": 10235
+  },
+  {
+    "startTime": "2024-01-22T03:30:00.000Z",
+    "generation": 10824
+  },
+  {
+    "startTime": "2024-01-22T04:00:00.000Z",
+    "generation": 11196
+  },
+  {
+    "startTime": "2024-01-22T04:30:00.000Z",
+    "generation": 11465
+  },
+  {
+    "startTime": "2024-01-22T05:00:00.000Z",
+    "generation": 11531
+  },
+  {
+    "startTime": "2024-01-22T05:30:00.000Z",
+    "generation": 11847
+  },
+  {
+    "startTime": "2024-01-22T06:00:00.000Z",
+    "generation": 12139
+  },
+  {
+    "startTime": "2024-01-22T06:30:00.000Z",
+    "generation": 12742
+  },
+  {
+    "startTime": "2024-01-22T07:00:00.000Z",
+    "generation": 13423
+  },
+  {
+    "startTime": "2024-01-22T07:30:00.000Z",
+    "generation": 14265
+  },
+  {
+    "startTime": "2024-01-22T08:00:00.000Z",
+    "generation": 14698
+  },
+  {
+    "startTime": "2024-01-22T08:30:00.000Z",
+    "generation": 14883
+  },
+  {
+    "startTime": "2024-01-22T09:00:00.000Z",
+    "generation": 14969
+  },
+  {
+    "startTime": "2024-01-22T09:30:00.000Z",
+    "generation": 15083
+  },
+  {
+    "startTime": "2024-01-22T10:00:00.000Z",
+    "generation": 15231
+  },
+  {
+    "startTime": "2024-01-22T10:30:00.000Z",
+    "generation": 15390
+  },
+  {
+    "startTime": "2024-01-22T11:00:00.000Z",
+    "generation": 15408
+  },
+  {
+    "startTime": "2024-01-22T11:30:00.000Z",
+    "generation": 15533
+  },
+  {
+    "startTime": "2024-01-22T12:00:00.000Z",
+    "generation": 15341
+  },
+  {
+    "startTime": "2024-01-22T12:30:00.000Z",
+    "generation": 15524
+  },
+  {
+    "startTime": "2024-01-22T13:00:00.000Z",
+    "generation": 15638
+  },
+  {
+    "startTime": "2024-01-22T13:30:00.000Z",
+    "generation": 15717
+  },
+  {
+    "startTime": "2024-01-22T14:00:00.000Z",
+    "generation": 16018
+  },
+  {
+    "startTime": "2024-01-22T14:30:00.000Z",
+    "generation": 15810
+  },
+  {
+    "startTime": "2024-01-22T15:00:00.000Z",
+    "generation": 15682
+  },
+  {
+    "startTime": "2024-01-22T15:30:00.000Z",
+    "generation": 15649
+  },
+  {
+    "startTime": "2024-01-22T16:00:00.000Z",
+    "generation": 15877
+  },
+  {
+    "startTime": "2024-01-22T16:30:00.000Z",
+    "generation": 13225
+  },
+  {
+    "startTime": "2024-01-22T17:00:00.000Z",
+    "generation": 15743
+  },
+  {
+    "startTime": "2024-01-22T17:30:00.000Z",
+    "generation": 15885
+  },
+  {
+    "startTime": "2024-01-22T18:00:00.000Z",
+    "generation": 15855
+  },
+  {
+    "startTime": "2024-01-22T18:30:00.000Z",
+    "generation": 15910
+  },
+  {
+    "startTime": "2024-01-22T19:00:00.000Z",
+    "generation": 15798
+  },
+  {
+    "startTime": "2024-01-22T19:30:00.000Z",
+    "generation": 15727
+  },
+  {
+    "startTime": "2024-01-22T20:00:00.000Z",
+    "generation": 15742
+  },
+  {
+    "startTime": "2024-01-22T20:30:00.000Z",
+    "generation": 15679
+  },
+  {
+    "startTime": "2024-01-22T21:00:00.000Z",
+    "generation": 15692
+  },
+  {
+    "startTime": "2024-01-22T21:30:00.000Z",
+    "generation": 15594
+  },
+  {
+    "startTime": "2024-01-22T22:00:00.000Z",
+    "generation": 15461
+  },
+  {
+    "startTime": "2024-01-22T22:30:00.000Z",
+    "generation": 15305
+  },
+  {
+    "startTime": "2024-01-22T23:00:00.000Z",
+    "generation": 15049
+  },
+  {
+    "startTime": "2024-01-22T23:30:00.000Z",
+    "generation": 14926
+  },
+  {
+    "startTime": "2024-01-23T00:00:00.000Z",
+    "generation": 14934
+  },
+  {
+    "startTime": "2024-01-23T00:30:00.000Z",
+    "generation": 14793
+  },
+  {
+    "startTime": "2024-01-23T01:00:00.000Z",
+    "generation": 14541
+  },
+  {
+    "startTime": "2024-01-23T01:30:00.000Z",
+    "generation": 14072
+  },
+  {
+    "startTime": "2024-01-23T02:00:00.000Z",
+    "generation": 13765
+  },
+  {
+    "startTime": "2024-01-23T02:30:00.000Z",
+    "generation": 13509
+  },
+  {
+    "startTime": "2024-01-23T03:00:00.000Z",
+    "generation": 12974
+  },
+  {
+    "startTime": "2024-01-23T03:30:00.000Z",
+    "generation": 12866
+  },
+  {
+    "startTime": "2024-01-23T04:00:00.000Z",
+    "generation": 12541
+  },
+  {
+    "startTime": "2024-01-23T04:30:00.000Z",
+    "generation": 12002
+  },
+  {
+    "startTime": "2024-01-23T05:00:00.000Z",
+    "generation": 12089
+  },
+  {
+    "startTime": "2024-01-23T05:30:00.000Z",
+    "generation": 12164
+  },
+  {
+    "startTime": "2024-01-23T06:00:00.000Z",
+    "generation": 12206
+  },
+  {
+    "startTime": "2024-01-23T06:30:00.000Z",
+    "generation": 12362
+  },
+  {
+    "startTime": "2024-01-23T07:00:00.000Z",
+    "generation": 13002
+  },
+  {
+    "startTime": "2024-01-23T07:30:00.000Z",
+    "generation": 13604
+  },
+  {
+    "startTime": "2024-01-23T08:00:00.000Z",
+    "generation": 14101
+  },
+  {
+    "startTime": "2024-01-23T08:30:00.000Z",
+    "generation": 14453
+  },
+  {
+    "startTime": "2024-01-23T09:00:00.000Z",
+    "generation": 14526
+  },
+  {
+    "startTime": "2024-01-23T09:30:00.000Z",
+    "generation": 14747
+  },
+  {
+    "startTime": "2024-01-23T10:00:00.000Z",
+    "generation": 14552
+  },
+  {
+    "startTime": "2024-01-23T10:30:00.000Z",
+    "generation": 2469
+  },
+  {
+    "startTime": "2024-01-23T11:00:00.000Z",
+    "generation": 0
+  },
+  {
+    "startTime": "2024-01-23T11:30:00.000Z",
+    "generation": 0
+  },
+  {
+    "startTime": "2024-01-23T12:00:00.000Z",
+    "generation": 12439
+  },
+  {
+    "startTime": "2024-01-23T12:30:00.000Z",
+    "generation": 15262
+  },
+  {
+    "startTime": "2024-01-23T13:00:00.000Z",
+    "generation": 15288
+  },
+  {
+    "startTime": "2024-01-23T13:30:00.000Z",
+    "generation": 15407
+  },
+  {
+    "startTime": "2024-01-23T14:00:00.000Z",
+    "generation": 15721
+  },
+  {
+    "startTime": "2024-01-23T14:30:00.000Z",
+    "generation": 15654
+  },
+  {
+    "startTime": "2024-01-23T15:00:00.000Z",
+    "generation": 15455
+  },
+  {
+    "startTime": "2024-01-23T15:30:00.000Z",
+    "generation": 15341
+  },
+  {
+    "startTime": "2024-01-23T16:00:00.000Z",
+    "generation": 15280
+  },
+  {
+    "startTime": "2024-01-23T16:30:00.000Z",
+    "generation": 15301
+  },
+  {
+    "startTime": "2024-01-23T17:00:00.000Z",
+    "generation": 15232
+  },
+  {
+    "startTime": "2024-01-23T17:30:00.000Z",
+    "generation": 15389
+  },
+  {
+    "startTime": "2024-01-23T18:00:00.000Z",
+    "generation": 15500
+  },
+  {
+    "startTime": "2024-01-23T18:30:00.000Z",
+    "generation": 15256
+  },
+  {
+    "startTime": "2024-01-23T19:00:00.000Z",
+    "generation": 15087
+  },
+  {
+    "startTime": "2024-01-23T19:30:00.000Z",
+    "generation": 15070
+  },
+  {
+    "startTime": "2024-01-23T20:00:00.000Z",
+    "generation": 15140
+  },
+  {
+    "startTime": "2024-01-23T20:30:00.000Z",
+    "generation": 15099
+  },
+  {
+    "startTime": "2024-01-23T21:00:00.000Z",
+    "generation": 14506
+  },
+  {
+    "startTime": "2024-01-23T21:30:00.000Z",
+    "generation": 14128
+  },
+  {
+    "startTime": "2024-01-23T22:00:00.000Z",
+    "generation": 13779
+  },
+  {
+    "startTime": "2024-01-23T22:30:00.000Z",
+    "generation": 13565
+  },
+  {
+    "startTime": "2024-01-23T23:00:00.000Z",
+    "generation": 13784
+  },
+  {
+    "startTime": "2024-01-23T23:30:00.000Z",
+    "generation": 14027
+  },
+  {
+    "startTime": "2024-01-24T00:00:00.000Z",
+    "generation": 13888
+  },
+  {
+    "startTime": "2024-01-24T00:30:00.000Z",
+    "generation": 13934
+  },
+  {
+    "startTime": "2024-01-24T01:00:00.000Z",
+    "generation": 13913
+  },
+  {
+    "startTime": "2024-01-24T01:30:00.000Z",
+    "generation": 13825
+  },
+  {
+    "startTime": "2024-01-24T02:00:00.000Z",
+    "generation": 13586
+  },
+  {
+    "startTime": "2024-01-24T02:30:00.000Z",
+    "generation": 13585
+  },
+  {
+    "startTime": "2024-01-24T03:00:00.000Z",
+    "generation": 13351
+  },
+  {
+    "startTime": "2024-01-24T03:30:00.000Z",
+    "generation": 13336
+  },
+  {
+    "startTime": "2024-01-24T04:00:00.000Z",
+    "generation": 13392
+  },
+  {
+    "startTime": "2024-01-24T04:30:00.000Z",
+    "generation": 13158
+  },
+  {
+    "startTime": "2024-01-24T05:00:00.000Z",
+    "generation": 13320
+  },
+  {
+    "startTime": "2024-01-24T05:30:00.000Z",
+    "generation": 13459
+  },
+  {
+    "startTime": "2024-01-24T06:00:00.000Z",
+    "generation": 13479
+  },
+  {
+    "startTime": "2024-01-24T06:30:00.000Z",
+    "generation": 13875
+  },
+  {
+    "startTime": "2024-01-24T07:00:00.000Z",
+    "generation": 14158
+  },
+  {
+    "startTime": "2024-01-24T07:30:00.000Z",
+    "generation": 14397
+  },
+  {
+    "startTime": "2024-01-24T08:00:00.000Z",
+    "generation": 14406
+  },
+  {
+    "startTime": "2024-01-24T08:30:00.000Z",
+    "generation": 14765
+  },
+  {
+    "startTime": "2024-01-24T09:00:00.000Z",
+    "generation": 14811
+  },
+  {
+    "startTime": "2024-01-24T09:30:00.000Z",
+    "generation": 14965
+  },
+  {
+    "startTime": "2024-01-24T10:00:00.000Z",
+    "generation": 14879
+  },
+  {
+    "startTime": "2024-01-24T10:30:00.000Z",
+    "generation": 14837
+  },
+  {
+    "startTime": "2024-01-24T11:00:00.000Z",
+    "generation": 14882
+  },
+  {
+    "startTime": "2024-01-24T11:30:00.000Z",
+    "generation": 14782
+  },
+  {
+    "startTime": "2024-01-24T12:00:00.000Z",
+    "generation": 14859
+  },
+  {
+    "startTime": "2024-01-24T12:30:00.000Z",
+    "generation": 14817
+  },
+  {
+    "startTime": "2024-01-24T13:00:00.000Z",
+    "generation": 14727
+  },
+  {
+    "startTime": "2024-01-24T13:30:00.000Z",
+    "generation": 14459
+  },
+  {
+    "startTime": "2024-01-24T14:00:00.000Z",
+    "generation": 14200
+  },
+  {
+    "startTime": "2024-01-24T14:30:00.000Z",
+    "generation": 14398
+  },
+  {
+    "startTime": "2024-01-24T15:00:00.000Z",
+    "generation": 14210
+  },
+  {
+    "startTime": "2024-01-24T15:30:00.000Z",
+    "generation": 14282
+  },
+  {
+    "startTime": "2024-01-24T16:00:00.000Z",
+    "generation": 13797
+  },
+  {
+    "startTime": "2024-01-24T16:30:00.000Z",
+    "generation": 13163
+  },
+  {
+    "startTime": "2024-01-24T17:00:00.000Z",
+    "generation": 12907
+  },
+  {
+    "startTime": "2024-01-24T17:30:00.000Z",
+    "generation": 13105
+  },
+  {
+    "startTime": "2024-01-24T18:00:00.000Z",
+    "generation": 12889
+  },
+  {
+    "startTime": "2024-01-24T18:30:00.000Z",
+    "generation": 12513
+  },
+  {
+    "startTime": "2024-01-24T19:00:00.000Z",
+    "generation": 11844
+  },
+  {
+    "startTime": "2024-01-24T19:30:00.000Z",
+    "generation": 11620
+  },
+  {
+    "startTime": "2024-01-24T20:00:00.000Z",
+    "generation": 11630
+  },
+  {
+    "startTime": "2024-01-24T20:30:00.000Z",
+    "generation": 10866
+  },
+  {
+    "startTime": "2024-01-24T21:00:00.000Z",
+    "generation": 10361
+  },
+  {
+    "startTime": "2024-01-24T21:30:00.000Z",
+    "generation": 10012
+  },
+  {
+    "startTime": "2024-01-24T22:00:00.000Z",
+    "generation": 9429
+  },
+  {
+    "startTime": "2024-01-24T22:30:00.000Z",
+    "generation": 8572
+  },
+  {
+    "startTime": "2024-01-24T23:00:00.000Z",
+    "generation": 8380
+  },
+  {
+    "startTime": "2024-01-24T23:30:00.000Z",
+    "generation": 7759
+  },
+  {
+    "startTime": "2024-01-25T00:00:00.000Z",
+    "generation": 7512
+  },
+  {
+    "startTime": "2024-01-25T00:30:00.000Z",
+    "generation": 7202
+  },
+  {
+    "startTime": "2024-01-25T01:00:00.000Z",
+    "generation": 6910
+  },
+  {
+    "startTime": "2024-01-25T01:30:00.000Z",
+    "generation": 6442
+  },
+  {
+    "startTime": "2024-01-25T02:00:00.000Z",
+    "generation": 6321
+  },
+  {
+    "startTime": "2024-01-25T02:30:00.000Z",
+    "generation": 6066
+  },
+  {
+    "startTime": "2024-01-25T03:00:00.000Z",
+    "generation": 6055
+  },
+  {
+    "startTime": "2024-01-25T03:30:00.000Z",
+    "generation": 6376
+  },
+  {
+    "startTime": "2024-01-25T04:00:00.000Z",
+    "generation": 6007
+  },
+  {
+    "startTime": "2024-01-25T04:30:00.000Z",
+    "generation": 5719
+  },
+  {
+    "startTime": "2024-01-25T05:00:00.000Z",
+    "generation": 6135
+  },
+  {
+    "startTime": "2024-01-25T05:30:00.000Z",
+    "generation": 6266
+  },
+  {
+    "startTime": "2024-01-25T06:00:00.000Z",
+    "generation": 6573
+  },
+  {
+    "startTime": "2024-01-25T06:30:00.000Z",
+    "generation": 6894
+  },
+  {
+    "startTime": "2024-01-25T07:00:00.000Z",
+    "generation": 7496
+  },
+  {
+    "startTime": "2024-01-25T07:30:00.000Z",
+    "generation": 8145
+  },
+  {
+    "startTime": "2024-01-25T08:00:00.000Z",
+    "generation": 8529
+  },
+  {
+    "startTime": "2024-01-25T08:30:00.000Z",
+    "generation": 9601
+  },
+  {
+    "startTime": "2024-01-25T09:00:00.000Z",
+    "generation": 10362
+  },
+  {
+    "startTime": "2024-01-25T09:30:00.000Z",
+    "generation": 10975
+  },
+  {
+    "startTime": "2024-01-25T10:00:00.000Z",
+    "generation": 11463
+  },
+  {
+    "startTime": "2024-01-25T10:30:00.000Z",
+    "generation": 12224
+  },
+  {
+    "startTime": "2024-01-25T11:00:00.000Z",
+    "generation": 12490
+  },
+  {
+    "startTime": "2024-01-25T11:30:00.000Z",
+    "generation": 12648
+  },
+  {
+    "startTime": "2024-01-25T12:00:00.000Z",
+    "generation": 12824
+  },
+  {
+    "startTime": "2024-01-25T12:30:00.000Z",
+    "generation": 13216
+  },
+  {
+    "startTime": "2024-01-25T13:00:00.000Z",
+    "generation": 13605
+  },
+  {
+    "startTime": "2024-01-25T13:30:00.000Z",
+    "generation": 13712
+  },
+  {
+    "startTime": "2024-01-25T14:00:00.000Z",
+    "generation": 13819
+  },
+  {
+    "startTime": "2024-01-25T14:30:00.000Z",
+    "generation": 13627
+  },
+  {
+    "startTime": "2024-01-25T15:00:00.000Z",
+    "generation": 13601
+  },
+  {
+    "startTime": "2024-01-25T15:30:00.000Z",
+    "generation": 13968
+  },
+  {
+    "startTime": "2024-01-25T16:00:00.000Z",
+    "generation": 14202
+  },
+  {
+    "startTime": "2024-01-25T16:30:00.000Z",
+    "generation": 14049
+  },
+  {
+    "startTime": "2024-01-25T17:00:00.000Z",
+    "generation": 14242
+  },
+  {
+    "startTime": "2024-01-25T17:30:00.000Z",
+    "generation": 14444
+  },
+  {
+    "startTime": "2024-01-25T18:00:00.000Z",
+    "generation": 14704
+  },
+  {
+    "startTime": "2024-01-25T18:30:00.000Z",
+    "generation": 14618
+  },
+  {
+    "startTime": "2024-01-25T19:00:00.000Z",
+    "generation": 14109
+  },
+  {
+    "startTime": "2024-01-25T19:30:00.000Z",
+    "generation": 14245
+  },
+  {
+    "startTime": "2024-01-25T20:00:00.000Z",
+    "generation": 14402
+  },
+  {
+    "startTime": "2024-01-25T20:30:00.000Z",
+    "generation": 14577
+  },
+  {
+    "startTime": "2024-01-25T21:00:00.000Z",
+    "generation": 14506
+  },
+  {
+    "startTime": "2024-01-25T21:30:00.000Z",
+    "generation": 14513
+  },
+  {
+    "startTime": "2024-01-25T22:00:00.000Z",
+    "generation": 14593
+  },
+  {
+    "startTime": "2024-01-25T22:30:00.000Z",
+    "generation": 14650
+  },
+  {
+    "startTime": "2024-01-25T23:00:00.000Z",
+    "generation": 14478
+  },
+  {
+    "startTime": "2024-01-25T23:30:00.000Z",
+    "generation": 14456
+  },
+  {
+    "startTime": "2024-01-26T00:00:00.000Z",
+    "generation": 14317
+  },
+  {
+    "startTime": "2024-01-26T00:30:00.000Z",
+    "generation": 14259
+  },
+  {
+    "startTime": "2024-01-26T01:00:00.000Z",
+    "generation": 14422
+  },
+  {
+    "startTime": "2024-01-26T01:30:00.000Z",
+    "generation": 14285
+  },
+  {
+    "startTime": "2024-01-26T02:00:00.000Z",
+    "generation": 14316
+  },
+  {
+    "startTime": "2024-01-26T02:30:00.000Z",
+    "generation": 14488
+  },
+  {
+    "startTime": "2024-01-26T03:00:00.000Z",
+    "generation": 14523
+  },
+  {
+    "startTime": "2024-01-26T03:30:00.000Z",
+    "generation": 14509
+  },
+  {
+    "startTime": "2024-01-26T04:00:00.000Z",
+    "generation": 14632
+  },
+  {
+    "startTime": "2024-01-26T04:30:00.000Z",
+    "generation": 14723
+  },
+  {
+    "startTime": "2024-01-26T05:00:00.000Z",
+    "generation": 14692
+  },
+  {
+    "startTime": "2024-01-26T05:30:00.000Z",
+    "generation": 14335
+  },
+  {
+    "startTime": "2024-01-26T06:00:00.000Z",
+    "generation": 14547
+  },
+  {
+    "startTime": "2024-01-26T06:30:00.000Z",
+    "generation": 14760
+  },
+  {
+    "startTime": "2024-01-26T07:00:00.000Z",
+    "generation": 14603
+  },
+  {
+    "startTime": "2024-01-26T07:30:00.000Z",
+    "generation": 14931
+  },
+  {
+    "startTime": "2024-01-26T08:00:00.000Z",
+    "generation": 14722
+  },
+  {
+    "startTime": "2024-01-26T08:30:00.000Z",
+    "generation": 14753
+  },
+  {
+    "startTime": "2024-01-26T09:00:00.000Z",
+    "generation": 14620
+  },
+  {
+    "startTime": "2024-01-26T09:30:00.000Z",
+    "generation": 14695
+  },
+  {
+    "startTime": "2024-01-26T10:00:00.000Z",
+    "generation": 14755
+  },
+  {
+    "startTime": "2024-01-26T10:30:00.000Z",
+    "generation": 14745
+  },
+  {
+    "startTime": "2024-01-26T11:00:00.000Z",
+    "generation": 15050
+  },
+  {
+    "startTime": "2024-01-26T11:30:00.000Z",
+    "generation": 15069
+  },
+  {
+    "startTime": "2024-01-26T12:00:00.000Z",
+    "generation": 15103
+  },
+  {
+    "startTime": "2024-01-26T12:30:00.000Z",
+    "generation": 14902
+  },
+  {
+    "startTime": "2024-01-26T13:00:00.000Z",
+    "generation": 15185
+  },
+  {
+    "startTime": "2024-01-26T13:30:00.000Z",
+    "generation": 15185
+  },
+  {
+    "startTime": "2024-01-26T14:00:00.000Z",
+    "generation": 14854
+  },
+  {
+    "startTime": "2024-01-26T14:30:00.000Z",
+    "generation": 14316
+  },
+  {
+    "startTime": "2024-01-26T15:00:00.000Z",
+    "generation": 13927
+  },
+  {
+    "startTime": "2024-01-26T15:30:00.000Z",
+    "generation": 13631
+  },
+  {
+    "startTime": "2024-01-26T16:00:00.000Z",
+    "generation": 13208
+  },
+  {
+    "startTime": "2024-01-26T16:30:00.000Z",
+    "generation": 12846
+  },
+  {
+    "startTime": "2024-01-26T17:00:00.000Z",
+    "generation": 13030
+  },
+  {
+    "startTime": "2024-01-26T17:30:00.000Z",
+    "generation": 12726
+  },
+  {
+    "startTime": "2024-01-26T18:00:00.000Z",
+    "generation": 12745
+  },
+  {
+    "startTime": "2024-01-26T18:30:00.000Z",
+    "generation": 12745
+  },
+  {
+    "startTime": "2024-01-26T19:00:00.000Z",
+    "generation": 12733
+  },
+  {
+    "startTime": "2024-01-26T19:30:00.000Z",
+    "generation": 12520
+  },
+  {
+    "startTime": "2024-01-26T20:00:00.000Z",
+    "generation": 12562
+  },
+  {
+    "startTime": "2024-01-26T20:30:00.000Z",
+    "generation": 12482
+  },
+  {
+    "startTime": "2024-01-26T21:00:00.000Z",
+    "generation": 12454
+  },
+  {
+    "startTime": "2024-01-26T21:30:00.000Z",
+    "generation": 12380
+  },
+  {
+    "startTime": "2024-01-26T22:00:00.000Z",
+    "generation": 12336
+  },
+  {
+    "startTime": "2024-01-26T22:30:00.000Z",
+    "generation": 12080
+  },
+  {
+    "startTime": "2024-01-26T23:00:00.000Z",
+    "generation": 11989
+  },
+  {
+    "startTime": "2024-01-26T23:30:00.000Z",
+    "generation": 12011
+  },
+  {
+    "startTime": "2024-01-27T00:00:00.000Z",
+    "generation": 11898
+  },
+  {
+    "startTime": "2024-01-27T00:30:00.000Z",
+    "generation": 11691
+  },
+  {
+    "startTime": "2024-01-27T01:00:00.000Z",
+    "generation": 11576
+  },
+  {
+    "startTime": "2024-01-27T01:30:00.000Z",
+    "generation": 11267
+  },
+  {
+    "startTime": "2024-01-27T02:00:00.000Z",
+    "generation": 11146
+  },
+  {
+    "startTime": "2024-01-27T02:30:00.000Z",
+    "generation": 10923
+  },
+  {
+    "startTime": "2024-01-27T03:00:00.000Z",
+    "generation": 10526
+  },
+  {
+    "startTime": "2024-01-27T03:30:00.000Z",
+    "generation": 10415
+  },
+  {
+    "startTime": "2024-01-27T04:00:00.000Z",
+    "generation": 10210
+  },
+  {
+    "startTime": "2024-01-27T04:30:00.000Z",
+    "generation": 10206
+  },
+  {
+    "startTime": "2024-01-27T05:00:00.000Z",
+    "generation": 9962
+  },
+  {
+    "startTime": "2024-01-27T05:30:00.000Z",
+    "generation": 9844
+  },
+  {
+    "startTime": "2024-01-27T06:00:00.000Z",
+    "generation": 9601
+  },
+  {
+    "startTime": "2024-01-27T06:30:00.000Z",
+    "generation": 9574
+  },
+  {
+    "startTime": "2024-01-27T07:00:00.000Z",
+    "generation": 9683
+  },
+  {
+    "startTime": "2024-01-27T07:30:00.000Z",
+    "generation": 10004
+  },
+  {
+    "startTime": "2024-01-27T08:00:00.000Z",
+    "generation": 10340
+  },
+  {
+    "startTime": "2024-01-27T08:30:00.000Z",
+    "generation": 10674
+  },
+  {
+    "startTime": "2024-01-27T09:00:00.000Z",
+    "generation": 11012
+  },
+  {
+    "startTime": "2024-01-27T09:30:00.000Z",
+    "generation": 11163
+  },
+  {
+    "startTime": "2024-01-27T10:00:00.000Z",
+    "generation": 11366
+  },
+  {
+    "startTime": "2024-01-27T10:30:00.000Z",
+    "generation": 11564
+  },
+  {
+    "startTime": "2024-01-27T11:00:00.000Z",
+    "generation": 11512
+  },
+  {
+    "startTime": "2024-01-27T11:30:00.000Z",
+    "generation": 11940
+  },
+  {
+    "startTime": "2024-01-27T12:00:00.000Z",
+    "generation": 11957
+  },
+  {
+    "startTime": "2024-01-27T12:30:00.000Z",
+    "generation": 11930
+  },
+  {
+    "startTime": "2024-01-27T13:00:00.000Z",
+    "generation": 11761
+  },
+  {
+    "startTime": "2024-01-27T13:30:00.000Z",
+    "generation": 12002
+  },
+  {
+    "startTime": "2024-01-27T14:00:00.000Z",
+    "generation": 11712
+  },
+  {
+    "startTime": "2024-01-27T14:30:00.000Z",
+    "generation": 11448
+  },
+  {
+    "startTime": "2024-01-27T15:00:00.000Z",
+    "generation": 11419
+  },
+  {
+    "startTime": "2024-01-27T15:30:00.000Z",
+    "generation": 11183
+  },
+  {
+    "startTime": "2024-01-27T16:00:00.000Z",
+    "generation": 11093
+  },
+  {
+    "startTime": "2024-01-27T16:30:00.000Z",
+    "generation": 11595
+  },
+  {
+    "startTime": "2024-01-27T17:00:00.000Z",
+    "generation": 11721
+  },
+  {
+    "startTime": "2024-01-27T17:30:00.000Z",
+    "generation": 11815
+  },
+  {
+    "startTime": "2024-01-27T18:00:00.000Z",
+    "generation": 11500
+  },
+  {
+    "startTime": "2024-01-27T18:30:00.000Z",
+    "generation": 11350
+  },
+  {
+    "startTime": "2024-01-27T19:00:00.000Z",
+    "generation": 11124
+  },
+  {
+    "startTime": "2024-01-27T19:30:00.000Z",
+    "generation": 11529
+  },
+  {
+    "startTime": "2024-01-27T20:00:00.000Z",
+    "generation": 11453
+  },
+  {
+    "startTime": "2024-01-27T20:30:00.000Z",
+    "generation": 11359
+  },
+  {
+    "startTime": "2024-01-27T21:00:00.000Z",
+    "generation": 11309
+  },
+  {
+    "startTime": "2024-01-27T21:30:00.000Z",
+    "generation": 11256
+  },
+  {
+    "startTime": "2024-01-27T22:00:00.000Z",
+    "generation": 11292
+  },
+  {
+    "startTime": "2024-01-27T22:30:00.000Z",
+    "generation": 11686
+  },
+  {
+    "startTime": "2024-01-27T23:00:00.000Z",
+    "generation": 11688
+  },
+  {
+    "startTime": "2024-01-27T23:30:00.000Z",
+    "generation": 11479
+  },
+  {
+    "startTime": "2024-01-28T00:00:00.000Z",
+    "generation": 11118
+  },
+  {
+    "startTime": "2024-01-28T00:30:00.000Z",
+    "generation": 11096
+  },
+  {
+    "startTime": "2024-01-28T01:00:00.000Z",
+    "generation": 11312
+  },
+  {
+    "startTime": "2024-01-28T01:30:00.000Z",
+    "generation": 11819
+  },
+  {
+    "startTime": "2024-01-28T02:00:00.000Z",
+    "generation": 11981
+  },
+  {
+    "startTime": "2024-01-28T02:30:00.000Z",
+    "generation": 12440
+  },
+  {
+    "startTime": "2024-01-28T03:00:00.000Z",
+    "generation": 12345
+  },
+  {
+    "startTime": "2024-01-28T03:30:00.000Z",
+    "generation": 12232
+  },
+  {
+    "startTime": "2024-01-28T04:00:00.000Z",
+    "generation": 12181
+  },
+  {
+    "startTime": "2024-01-28T04:30:00.000Z",
+    "generation": 12365
+  },
+  {
+    "startTime": "2024-01-28T05:00:00.000Z",
+    "generation": 12679
+  },
+  {
+    "startTime": "2024-01-28T05:30:00.000Z",
+    "generation": 12853
+  },
+  {
+    "startTime": "2024-01-28T06:00:00.000Z",
+    "generation": 12877
+  },
+  {
+    "startTime": "2024-01-28T06:30:00.000Z",
+    "generation": 12622
+  },
+  {
+    "startTime": "2024-01-28T07:00:00.000Z",
+    "generation": 12485
+  },
+  {
+    "startTime": "2024-01-28T07:30:00.000Z",
+    "generation": 12484
+  },
+  {
+    "startTime": "2024-01-28T08:00:00.000Z",
+    "generation": 12248
+  },
+  {
+    "startTime": "2024-01-28T08:30:00.000Z",
+    "generation": 11948
+  },
+  {
+    "startTime": "2024-01-28T09:00:00.000Z",
+    "generation": 12157
+  },
+  {
+    "startTime": "2024-01-28T09:30:00.000Z",
+    "generation": 12523
+  },
+  {
+    "startTime": "2024-01-28T10:00:00.000Z",
+    "generation": 12583
+  },
+  {
+    "startTime": "2024-01-28T10:30:00.000Z",
+    "generation": 12639
+  },
+  {
+    "startTime": "2024-01-28T11:00:00.000Z",
+    "generation": 12532
+  },
+  {
+    "startTime": "2024-01-28T11:30:00.000Z",
+    "generation": 13063
+  },
+  {
+    "startTime": "2024-01-28T12:00:00.000Z",
+    "generation": 13588
+  },
+  {
+    "startTime": "2024-01-28T12:30:00.000Z",
+    "generation": 13682
+  },
+  {
+    "startTime": "2024-01-28T13:00:00.000Z",
+    "generation": 13513
+  },
+  {
+    "startTime": "2024-01-28T13:30:00.000Z",
+    "generation": 13316
+  },
+  {
+    "startTime": "2024-01-28T14:00:00.000Z",
+    "generation": 13270
+  },
+  {
+    "startTime": "2024-01-28T14:30:00.000Z",
+    "generation": 13332
+  },
+  {
+    "startTime": "2024-01-28T15:00:00.000Z",
+    "generation": 13272
+  },
+  {
+    "startTime": "2024-01-28T15:30:00.000Z",
+    "generation": 13519
+  },
+  {
+    "startTime": "2024-01-28T16:00:00.000Z",
+    "generation": 13866
+  },
+  {
+    "startTime": "2024-01-28T16:30:00.000Z",
+    "generation": 13931
+  },
+  {
+    "startTime": "2024-01-28T17:00:00.000Z",
+    "generation": 14255
+  },
+  {
+    "startTime": "2024-01-28T17:30:00.000Z",
+    "generation": 14439
+  },
+  {
+    "startTime": "2024-01-28T18:00:00.000Z",
+    "generation": 14262
+  },
+  {
+    "startTime": "2024-01-28T18:30:00.000Z",
+    "generation": 14047
+  },
+  {
+    "startTime": "2024-01-28T19:00:00.000Z",
+    "generation": 13632
+  },
+  {
+    "startTime": "2024-01-28T19:30:00.000Z",
+    "generation": 13162
+  },
+  {
+    "startTime": "2024-01-28T20:00:00.000Z",
+    "generation": 12878
+  },
+  {
+    "startTime": "2024-01-28T20:30:00.000Z",
+    "generation": 12400
+  },
+  {
+    "startTime": "2024-01-28T21:00:00.000Z",
+    "generation": 12151
+  },
+  {
+    "startTime": "2024-01-28T21:30:00.000Z",
+    "generation": 11717
+  },
+  {
+    "startTime": "2024-01-28T22:00:00.000Z",
+    "generation": 11484
+  },
+  {
+    "startTime": "2024-01-28T22:30:00.000Z",
+    "generation": 10969
+  },
+  {
+    "startTime": "2024-01-28T23:00:00.000Z",
+    "generation": 10198
+  },
+  {
+    "startTime": "2024-01-28T23:30:00.000Z",
+    "generation": 9898
+  },
+  {
+    "startTime": "2024-01-29T00:00:00.000Z",
+    "generation": 9682
+  },
+  {
+    "startTime": "2024-01-29T00:30:00.000Z",
+    "generation": 8765
+  },
+  {
+    "startTime": "2024-01-29T01:00:00.000Z",
+    "generation": 7980
+  },
+  {
+    "startTime": "2024-01-29T01:30:00.000Z",
+    "generation": 6853
+  },
+  {
+    "startTime": "2024-01-29T02:00:00.000Z",
+    "generation": 6149
+  },
+  {
+    "startTime": "2024-01-29T02:30:00.000Z",
+    "generation": 5889
+  },
+  {
+    "startTime": "2024-01-29T03:00:00.000Z",
+    "generation": 5568
+  },
+  {
+    "startTime": "2024-01-29T03:30:00.000Z",
+    "generation": 4809
+  },
+  {
+    "startTime": "2024-01-29T04:00:00.000Z",
+    "generation": 4336
+  },
+  {
+    "startTime": "2024-01-29T04:30:00.000Z",
+    "generation": 4145
+  },
+  {
+    "startTime": "2024-01-29T05:00:00.000Z",
+    "generation": 3962
+  },
+  {
+    "startTime": "2024-01-29T05:30:00.000Z",
+    "generation": 3754
+  },
+  {
+    "startTime": "2024-01-29T06:00:00.000Z",
+    "generation": 3626
+  },
+  {
+    "startTime": "2024-01-29T06:30:00.000Z",
+    "generation": 3748
+  },
+  {
+    "startTime": "2024-01-29T07:00:00.000Z",
+    "generation": 4031
+  },
+  {
+    "startTime": "2024-01-29T07:30:00.000Z",
+    "generation": 3996
+  },
+  {
+    "startTime": "2024-01-29T08:00:00.000Z",
+    "generation": 3909
+  },
+  {
+    "startTime": "2024-01-29T08:30:00.000Z",
+    "generation": 3880
+  },
+  {
+    "startTime": "2024-01-29T09:00:00.000Z",
+    "generation": 3928
+  },
+  {
+    "startTime": "2024-01-29T09:30:00.000Z",
+    "generation": 3582
+  },
+  {
+    "startTime": "2024-01-29T10:00:00.000Z",
+    "generation": 3337
+  },
+  {
+    "startTime": "2024-01-29T10:30:00.000Z",
+    "generation": 3493
+  },
+  {
+    "startTime": "2024-01-29T11:00:00.000Z",
+    "generation": 3669
+  },
+  {
+    "startTime": "2024-01-29T11:30:00.000Z",
+    "generation": 3321
+  },
+  {
+    "startTime": "2024-01-29T12:00:00.000Z",
+    "generation": 2918
+  },
+  {
+    "startTime": "2024-01-29T12:30:00.000Z",
+    "generation": 3004
+  },
+  {
+    "startTime": "2024-01-29T13:00:00.000Z",
+    "generation": 3078
+  },
+  {
+    "startTime": "2024-01-29T13:30:00.000Z",
+    "generation": 3405
+  },
+  {
+    "startTime": "2024-01-29T14:00:00.000Z",
+    "generation": 3761
+  },
+  {
+    "startTime": "2024-01-29T14:30:00.000Z",
+    "generation": 3948
+  },
+  {
+    "startTime": "2024-01-29T15:00:00.000Z",
+    "generation": 4342
+  },
+  {
+    "startTime": "2024-01-29T15:30:00.000Z",
+    "generation": 5053
+  },
+  {
+    "startTime": "2024-01-29T16:00:00.000Z",
+    "generation": 5949
+  },
+  {
+    "startTime": "2024-01-29T16:30:00.000Z",
+    "generation": 6769
+  },
+  {
+    "startTime": "2024-01-29T17:00:00.000Z",
+    "generation": 7372
+  },
+  {
+    "startTime": "2024-01-29T17:30:00.000Z",
+    "generation": 7538
+  },
+  {
+    "startTime": "2024-01-29T18:00:00.000Z",
+    "generation": 8035
+  },
+  {
+    "startTime": "2024-01-29T18:30:00.000Z",
+    "generation": 8669
+  },
+  {
+    "startTime": "2024-01-29T19:00:00.000Z",
+    "generation": 9019
+  },
+  {
+    "startTime": "2024-01-29T19:30:00.000Z",
+    "generation": 9221
+  },
+  {
+    "startTime": "2024-01-29T20:00:00.000Z",
+    "generation": 9178
+  },
+  {
+    "startTime": "2024-01-29T20:30:00.000Z",
+    "generation": 9171
+  },
+  {
+    "startTime": "2024-01-29T21:00:00.000Z",
+    "generation": 9077
+  },
+  {
+    "startTime": "2024-01-29T21:30:00.000Z",
+    "generation": 8994
+  },
+  {
+    "startTime": "2024-01-29T22:00:00.000Z",
+    "generation": 8875
+  },
+  {
+    "startTime": "2024-01-29T22:30:00.000Z",
+    "generation": 8784
+  },
+  {
+    "startTime": "2024-01-29T23:00:00.000Z",
+    "generation": 8699
+  },
+  {
+    "startTime": "2024-01-29T23:30:00.000Z",
+    "generation": 9021
+  },
+  {
+    "startTime": "2024-01-30T00:00:00.000Z",
+    "generation": 9135
+  },
+  {
+    "startTime": "2024-01-30T00:30:00.000Z",
+    "generation": 9551
+  },
+  {
+    "startTime": "2024-01-30T01:00:00.000Z",
+    "generation": 9883
+  },
+  {
+    "startTime": "2024-01-30T01:30:00.000Z",
+    "generation": 10064
+  },
+  {
+    "startTime": "2024-01-30T02:00:00.000Z",
+    "generation": 10237
+  },
+  {
+    "startTime": "2024-01-30T02:30:00.000Z",
+    "generation": 10203
+  },
+  {
+    "startTime": "2024-01-30T03:00:00.000Z",
+    "generation": 10370
+  },
+  {
+    "startTime": "2024-01-30T03:30:00.000Z",
+    "generation": 10407
+  },
+  {
+    "startTime": "2024-01-30T04:00:00.000Z",
+    "generation": 10203
+  },
+  {
+    "startTime": "2024-01-30T04:30:00.000Z",
+    "generation": 10038
+  },
+  {
+    "startTime": "2024-01-30T05:00:00.000Z",
+    "generation": 10076
+  },
+  {
+    "startTime": "2024-01-30T05:30:00.000Z",
+    "generation": 10233
+  },
+  {
+    "startTime": "2024-01-30T06:00:00.000Z",
+    "generation": 10215
+  },
+  {
+    "startTime": "2024-01-30T06:30:00.000Z",
+    "generation": 10197
+  },
+  {
+    "startTime": "2024-01-30T07:00:00.000Z",
+    "generation": 10107
+  },
+  {
+    "startTime": "2024-01-30T07:30:00.000Z",
+    "generation": 9934
+  },
+  {
+    "startTime": "2024-01-30T08:00:00.000Z",
+    "generation": 9672
+  },
+  {
+    "startTime": "2024-01-30T08:30:00.000Z",
+    "generation": 9438
+  },
+  {
+    "startTime": "2024-01-30T09:00:00.000Z",
+    "generation": 9195
+  },
+  {
+    "startTime": "2024-01-30T09:30:00.000Z",
+    "generation": 9069
+  },
+  {
+    "startTime": "2024-01-30T10:00:00.000Z",
+    "generation": 9066
+  },
+  {
+    "startTime": "2024-01-30T10:30:00.000Z",
+    "generation": 9243
+  },
+  {
+    "startTime": "2024-01-30T11:00:00.000Z",
+    "generation": 9565
+  },
+  {
+    "startTime": "2024-01-30T11:30:00.000Z",
+    "generation": 9283
+  },
+  {
+    "startTime": "2024-01-30T12:00:00.000Z",
+    "generation": 8628
+  },
+  {
+    "startTime": "2024-01-30T12:30:00.000Z",
+    "generation": 8437
+  },
+  {
+    "startTime": "2024-01-30T13:00:00.000Z",
+    "generation": 8442
+  },
+  {
+    "startTime": "2024-01-30T13:30:00.000Z",
+    "generation": 8412
+  },
+  {
+    "startTime": "2024-01-30T14:00:00.000Z",
+    "generation": 8626
+  },
+  {
+    "startTime": "2024-01-30T14:30:00.000Z",
+    "generation": 8149
+  },
+  {
+    "startTime": "2024-01-30T15:00:00.000Z",
+    "generation": 7823
+  },
+  {
+    "startTime": "2024-01-30T15:30:00.000Z",
+    "generation": 7826
+  },
+  {
+    "startTime": "2024-01-30T16:00:00.000Z",
+    "generation": 7604
+  },
+  {
+    "startTime": "2024-01-30T16:30:00.000Z",
+    "generation": 7238
+  },
+  {
+    "startTime": "2024-01-30T17:00:00.000Z",
+    "generation": 7193
+  },
+  {
+    "startTime": "2024-01-30T17:30:00.000Z",
+    "generation": 7008
+  },
+  {
+    "startTime": "2024-01-30T18:00:00.000Z",
+    "generation": 6626
+  },
+  {
+    "startTime": "2024-01-30T18:30:00.000Z",
+    "generation": 6483
+  },
+  {
+    "startTime": "2024-01-30T19:00:00.000Z",
+    "generation": 6415
+  },
+  {
+    "startTime": "2024-01-30T19:30:00.000Z",
+    "generation": 6509
+  },
+  {
+    "startTime": "2024-01-30T20:00:00.000Z",
+    "generation": 6622
+  },
+  {
+    "startTime": "2024-01-30T20:30:00.000Z",
+    "generation": 6700
+  },
+  {
+    "startTime": "2024-01-30T21:00:00.000Z",
+    "generation": 7217
+  },
+  {
+    "startTime": "2024-01-30T21:30:00.000Z",
+    "generation": 7247
+  },
+  {
+    "startTime": "2024-01-30T22:00:00.000Z",
+    "generation": 7214
+  },
+  {
+    "startTime": "2024-01-30T22:30:00.000Z",
+    "generation": 7688
+  },
+  {
+    "startTime": "2024-01-30T23:00:00.000Z",
+    "generation": 7592
+  },
+  {
+    "startTime": "2024-01-30T23:30:00.000Z",
+    "generation": 7049
+  },
+  {
+    "startTime": "2024-01-31T00:00:00.000Z",
+    "generation": 7009
+  },
+  {
+    "startTime": "2024-01-31T00:30:00.000Z",
+    "generation": 7207
+  },
+  {
+    "startTime": "2024-01-31T01:00:00.000Z",
+    "generation": 7248
+  },
+  {
+    "startTime": "2024-01-31T01:30:00.000Z",
+    "generation": 7371
+  },
+  {
+    "startTime": "2024-01-31T02:00:00.000Z",
+    "generation": 7463
+  },
+  {
+    "startTime": "2024-01-31T02:30:00.000Z",
+    "generation": 7964
+  },
+  {
+    "startTime": "2024-01-31T03:00:00.000Z",
+    "generation": 8175
+  },
+  {
+    "startTime": "2024-01-31T03:30:00.000Z",
+    "generation": 8432
+  },
+  {
+    "startTime": "2024-01-31T04:00:00.000Z",
+    "generation": 8687
+  },
+  {
+    "startTime": "2024-01-31T04:30:00.000Z",
+    "generation": 8908
+  },
+  {
+    "startTime": "2024-01-31T05:00:00.000Z",
+    "generation": 9519
+  },
+  {
+    "startTime": "2024-01-31T05:30:00.000Z",
+    "generation": 10010
+  },
+  {
+    "startTime": "2024-01-31T06:00:00.000Z",
+    "generation": 10509
+  },
+  {
+    "startTime": "2024-01-31T06:30:00.000Z",
+    "generation": 11156
+  },
+  {
+    "startTime": "2024-01-31T07:00:00.000Z",
+    "generation": 11728
+  },
+  {
+    "startTime": "2024-01-31T07:30:00.000Z",
+    "generation": 12411
+  },
+  {
+    "startTime": "2024-01-31T08:00:00.000Z",
+    "generation": 12836
+  },
+  {
+    "startTime": "2024-01-31T08:30:00.000Z",
+    "generation": 13321
+  },
+  {
+    "startTime": "2024-01-31T09:00:00.000Z",
+    "generation": 13747
+  },
+  {
+    "startTime": "2024-01-31T09:30:00.000Z",
+    "generation": 13602
+  },
+  {
+    "startTime": "2024-01-31T10:00:00.000Z",
+    "generation": 14183
+  },
+  {
+    "startTime": "2024-01-31T10:30:00.000Z",
+    "generation": 14245
+  },
+  {
+    "startTime": "2024-01-31T11:00:00.000Z",
+    "generation": 14352
+  },
+  {
+    "startTime": "2024-01-31T11:30:00.000Z",
+    "generation": 14739
+  },
+  {
+    "startTime": "2024-01-31T12:00:00.000Z",
+    "generation": 15177
+  },
+  {
+    "startTime": "2024-01-31T12:30:00.000Z",
+    "generation": 15701
+  },
+  {
+    "startTime": "2024-01-31T13:00:00.000Z",
+    "generation": 15997
+  },
+  {
+    "startTime": "2024-01-31T13:30:00.000Z",
+    "generation": 15868
+  },
+  {
+    "startTime": "2024-01-31T14:00:00.000Z",
+    "generation": 15818
+  },
+  {
+    "startTime": "2024-01-31T14:30:00.000Z",
+    "generation": 15691
+  },
+  {
+    "startTime": "2024-01-31T15:00:00.000Z",
+    "generation": 15911
+  },
+  {
+    "startTime": "2024-01-31T15:30:00.000Z",
+    "generation": 15865
+  },
+  {
+    "startTime": "2024-01-31T16:00:00.000Z",
+    "generation": 15762
+  },
+  {
+    "startTime": "2024-01-31T16:30:00.000Z",
+    "generation": 15544
+  },
+  {
+    "startTime": "2024-01-31T17:00:00.000Z",
+    "generation": 15683
+  },
+  {
+    "startTime": "2024-01-31T17:30:00.000Z",
+    "generation": 15654
+  },
+  {
+    "startTime": "2024-01-31T18:00:00.000Z",
+    "generation": 15411
+  },
+  {
+    "startTime": "2024-01-31T18:30:00.000Z",
+    "generation": 15736
+  },
+  {
+    "startTime": "2024-01-31T19:00:00.000Z",
+    "generation": 15812
+  },
+  {
+    "startTime": "2024-01-31T19:30:00.000Z",
+    "generation": 15661
+  },
+  {
+    "startTime": "2024-01-31T20:00:00.000Z",
+    "generation": 15684
+  },
+  {
+    "startTime": "2024-01-31T20:30:00.000Z",
+    "generation": 15827
+  },
+  {
+    "startTime": "2024-01-31T21:00:00.000Z",
+    "generation": 15757
+  },
+  {
+    "startTime": "2024-01-31T21:30:00.000Z",
+    "generation": 15719
+  },
+  {
+    "startTime": "2024-01-31T22:00:00.000Z",
+    "generation": 15490
+  },
+  {
+    "startTime": "2024-01-31T22:30:00.000Z",
+    "generation": 14908
+  },
+  {
+    "startTime": "2024-01-31T23:00:00.000Z",
+    "generation": 14595
+  },
+  {
+    "startTime": "2024-01-31T23:30:00.000Z",
+    "generation": 14355
+  }
+]

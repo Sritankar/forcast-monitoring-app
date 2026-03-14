@@ -1,0 +1,11 @@
+{
+  "generatedAtUtc": "2026-03-14T16:27:49.642Z",
+  "actualRows": 1488,
+  "forecastRows": 9582,
+  "actualStartUtc": "2024-01-01T00:00:00.000Z",
+  "actualEndUtc": "2024-01-31T23:30:00.000Z",
+  "minHorizonHours": 0.5,
+  "p50HorizonHours": 28.5,
+  "p99HorizonHours": 47.5,
+  "maxHorizonHours": 48
+}
