@@ -5,3 +5,4 @@ out
 .env*
 analysis/.ipynb_checkpoints
 forcast-monitoring-app-submission.zip
+.vercel
