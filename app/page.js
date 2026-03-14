@@ -100,6 +100,16 @@ export default function HomePage() {
         horizonHours: String(horizonHours),
       });
       const response = await fetch(`/api/monitor?${params.toString()}`);
+      const contentType = response.headers.get("content-type") ?? "";
+      if (!contentType.toLowerCase().includes("application/json")) {
+        const text = await response.text();
+        throw new Error(
+          `API returned non-JSON response (${response.status}). Check that the app is running on the correct port and /api/monitor is available. Response starts with: ${text.slice(
+            0,
+            80,
+          )}`,
+        );
+      }
       const payload = await response.json();
       if (!response.ok) {
         throw new Error(payload.error ?? "Failed to load chart data.");
@@ -248,16 +258,16 @@ export default function HomePage() {
                   dot={false}
                   isAnimationActive={false}
                 />
-                <Line
-                  type="monotone"
-                  dataKey="forecastMw"
-                  name="Forecast Generation"
-                  stroke="var(--accent-1)"
-                  strokeWidth={2.4}
-                  dot={false}
-                  connectNulls={false}
-                  isAnimationActive={false}
-                />
+              <Line
+                type="monotone"
+                dataKey="forecastMw"
+                name="Forecast Generation"
+                stroke="var(--accent-1)"
+                strokeWidth={2.4}
+                dot={{ r: 2 }}
+                connectNulls
+                isAnimationActive={false}
+              />
               </LineChart>
             </ResponsiveContainer>
           ) : null}
